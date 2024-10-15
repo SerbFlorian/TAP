@@ -7,7 +7,6 @@ public class File implements AComponent {
 
 
 	public File(String name, int size) {
-		super();
 		this.name = name;
 		this.size = size;
 	}
