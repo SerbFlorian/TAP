@@ -2,7 +2,9 @@
 
 TAP 3: DESIGN PATTERNS
 -----------------------------
-
+1. On esta el CONTRACTE= qui ereta del pare -> IMPLEMENT
+2. Assignacio POLIMORFICA= on es fa el new
+3. DINAMIC BINDING
 
 
   1. Singleton: http://www.tutorialspoint.com/design_pattern/singleton_pattern.htm

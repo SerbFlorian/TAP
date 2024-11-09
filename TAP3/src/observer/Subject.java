@@ -7,6 +7,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Subject {
+    // DINAMIC BIDING -> observer.update(state);
+    // sempre es cridar un metode del CONTRACTE, que en veritat es crida un dels fills
+
 
     private List<Observer> observers = new ArrayList<Observer>();
     private int state;

@@ -1,22 +1,25 @@
 package visitor;
+//1. CONTRACTE = Person
+//2. Assignacio POLIMORFICA =
+//3. DINAMIC BINDING
 
 //ConcreteElement
-public class HastyPerson implements Person{
-	
-	private int clockFrequency; //how often he looks at his clock
-			
-	public HastyPerson(int clockFrequency) {
-		super();
-		this.clockFrequency = clockFrequency;
-	}
+public class HastyPerson implements Person {
 
-	@Override
-	public void accept(TaxiVisitor v) {
-		v.visit(this);
-	}
+    private int clockFrequency; //how often he looks at his clock
 
-	public boolean veryHasty() {
-		return (clockFrequency>4);
-	}
+    public HastyPerson(int clockFrequency) {
+        super();
+        this.clockFrequency = clockFrequency;
+    }
+
+    @Override
+    public void accept(TaxiVisitor v) {
+        v.visit(this);
+    }
+
+    public boolean veryHasty() {
+        return (clockFrequency > 4);
+    }
 
 }

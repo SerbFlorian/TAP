@@ -3,4 +3,4 @@ package functional;
 /**
  * @author MikeW
  */
-public enum Gender { MALE, FEMALE }
+public enum Gender {MALE, FEMALE}

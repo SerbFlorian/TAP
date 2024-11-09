@@ -1,6 +1,7 @@
 package decorator;
 
 public class Main {
+	//ASSIGNACIO POLIMORFICA -> decorator, ja que li estic passant una filla de car
 
 	public static void main(String[] args) {
 		
@@ -15,8 +16,8 @@ public class Main {
 
 		//Car myCar = new SpoilerDecorator(new NitroDecorator(new Car("Chevrolet",10000)));
 
-		System.out.println("Description: "+myCar.getDescription());
-		System.out.println("Price: "+myCar.getPrice()+"�");
+		System.out.println("Description: "+decorator2.getDescription());
+		System.out.println("Price: "+decorator2.getPrice()+"�");
 	}
 
 }

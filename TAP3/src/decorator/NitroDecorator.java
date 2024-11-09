@@ -1,7 +1,8 @@
 package decorator;
 
 public class NitroDecorator extends Car{
-
+	// DINAMIC BIDING -> client.getDescription()
+	// crido la classe pare, pero com tinc assignada una filla, doncs cridara la filla
 	private Car client;
 
 	public NitroDecorator(Car car) {

@@ -1,25 +1,38 @@
 package stacks;
-public interface Stack {
-	/**
-	 * Introduce an element at the top
-	 * 
-	 * @param elem
-	 *            Item to add at the top oh the stack.
-	 */
-	public void push(int elem);
 
-	/**
-	 * Obtain element that's on the top and delete it
-	 */
-	public int pop();
+/**
+ * Interfaz que define las operaciones básicas de una pila (stack).
+ * Esta interfaz incluye métodos para apilar (push), desapilar (pop),
+ * y verificar el estado de la pila.
+ */
+interface Stack {
 
-	/**
-	 * Say if stack is full.
-	 */
-	public boolean full();
+    /**
+     * Introduce un elemento en la parte superior de la pila.
+     *
+     * @param elem El elemento que se va a agregar a la pila.
+     */
+    void push(int elem);
 
-	/**
-	 * Say if stack is empty.
-	 */
-	public boolean empty();
+    /**
+     * Obtiene y elimina el elemento que se encuentra en la parte superior de la pila.
+     *
+     * @return El elemento que estaba en la parte superior de la pila antes de ser eliminado.
+     * @throws IllegalStateException Si la pila está vacía y se intenta desapilar.
+     */
+    int pop();
+
+    /**
+     * Verifica si la pila está llena.
+     *
+     * @return true si la pila está llena, false en caso contrario.
+     */
+    boolean full();
+
+    /**
+     * Verifica si la pila está vacía.
+     *
+     * @return true si la pila está vacía, false en caso contrario.
+     */
+    boolean empty();
 }

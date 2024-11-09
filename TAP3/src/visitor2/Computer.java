@@ -1,4 +1,5 @@
 package visitor2;
+//1. On esta el CONTRACTE= ComputerPart
 
 /**
  * Created by milax on 14/10/16.
@@ -7,8 +8,8 @@ public class Computer implements ComputerPart {
 
     ComputerPart[] parts;
 
-    public Computer(){
-        parts = new ComputerPart[] {new Mouse(), new Keyboard(), new Monitor()};
+    public Computer() {
+        parts = new ComputerPart[]{new Mouse(), new Keyboard(), new Monitor()};
     }
 
 

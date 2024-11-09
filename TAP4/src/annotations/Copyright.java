@@ -8,6 +8,7 @@ import java.lang.annotation.Target;
 
 /**
  * Created by pedro on 9/24/15.
+ * Sols es pot aplicar a CLASSES, ANOTACIONS o INTERFICIES
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.TYPE) //on class level

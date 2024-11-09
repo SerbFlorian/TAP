@@ -4,6 +4,7 @@ package observer;
  * Created by pedro on 10/7/16.
  */
 public class OctalObserver implements Observer{
+    // CONTRACTE -> Observer
 
 
     @Override

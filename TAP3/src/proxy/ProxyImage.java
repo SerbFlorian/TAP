@@ -4,6 +4,7 @@ package proxy;
  * http://www.tutorialspoint.com/design_pattern/proxy_pattern.htm
  */
 public class ProxyImage implements Image{
+    // CONTRACTE -> IMGAGE
 
     private RealImage realImage;
     private String fileName;

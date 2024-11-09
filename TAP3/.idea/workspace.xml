@@ -6,13 +6,29 @@
   <component name="ChangeListManager">
     <list default="true" id="024cd87f-eb98-4d9d-8a09-9b114020ffe4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/composite/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/composite/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/visitor/HastyPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/visitor/HastyPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/visitor/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/visitor/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/visitor2/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/visitor2/Computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/visitor2/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/visitor2/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decorator/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/decorator/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decorator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/decorator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decorator/NitroDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/decorator/NitroDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iterator/IteratorPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iterator/IteratorPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/OctalObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/OctalObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/observer/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/proxy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/proxy/ProxyImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/ProxyImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor/HastyPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor/HastyPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor2/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor2/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor2/ComputerPartVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor2/ComputerPartVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP4/src/annotations/Copyright.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP4/src/annotations/Copyright.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,9 +206,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectFrameBounds">
     <option name="x" value="182" />
     <option name="y" value="25" />
@@ -258,8 +274,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main (4).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.composite.Main.executor": "Run",
+    "Application.decorator.Main.executor": "Run",
     "Application.solutions.filesystem2.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -279,7 +297,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.composite.Main">
+  <component name="RunManager" selected="Application.decorator.Main">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -502,20 +520,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="template.Main" />
-      <module name="TAP3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="template.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="solutions.filesystem.Main" />
       <module name="TAP3" />
@@ -543,6 +547,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="decorator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decorator.Main" />
+      <module name="TAP3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -587,19 +605,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.decorator.Main" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.composite.Main" />
       <item itemvalue="Application.solutions.filesystem2.Main" />
       <item itemvalue="Application.Main (4)" />
-      <item itemvalue="Application.Main (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.decorator.Main" />
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.composite.Main" />
         <item itemvalue="Application.solutions.filesystem2.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>

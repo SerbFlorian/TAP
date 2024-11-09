@@ -1,7 +1,9 @@
 package visitor;
 
 import java.util.LinkedList;
-
+//2. Assignacio POLIMORFICA = taxiDrive
+//3. DINAMIC BINDING= linea 12
+//4. VISITOR = taxiDriver
 
 public class Main {
 
