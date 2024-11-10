@@ -5,77 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b6a419e-c707-43ab-a992-18d0d09502ac" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/defaultmethods/DefaultPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultmethods/DefaultPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/defaultmethods/DefaultTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultmethods/DefaultTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/defaultmethods/ICorrupt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultmethods/ICorrupt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/defaultmethods/IPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultmethods/IPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/ComparatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/ComparatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Developer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Filter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/Functional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Functional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Gender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/ListenerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/ListenerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/Map2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Map2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/RunnableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/RunnableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Streams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/Streams2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Streams2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/TestFlatMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/TestFlatMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/functional/TestParallel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/TestParallel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/MutantParrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/MutantParrot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/Parrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/Parrot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/Thing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/Thing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/Thing2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/Thing2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/UseThing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/UseThing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/UseThing2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/UseThing2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/map/IMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/IMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/map/Increment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/Increment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/map/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/map/MapSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/MapSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/map/MapUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/MapUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/map/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/map2/Capitals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map2/Capitals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/map2/Imap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map2/Imap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/map2/Increment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map2/Increment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/map2/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map2/Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/map2/MapSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map2/MapSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/map2/MapUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map2/MapUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/map2/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map2/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/Enum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/other/Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/Static.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/patternmatching/InsultMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patternmatching/InsultMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/patternmatching/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patternmatching/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/patternmatching/QuitMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patternmatching/QuitMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/patternmatching/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patternmatching/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/accounts/AccType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/accounts/AccType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/accounts/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/accounts/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/accounts/Tokens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/accounts/Tokens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/bstree/BSTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/bstree/BSTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/bstree/Comparaint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/bstree/Comparaint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/bstree/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/bstree/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/bstree2/BSTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/bstree2/BSTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/bstree2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/bstree2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stacks/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks/ArrayStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stacks/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stacks/UseStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks/UseStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stacks/VectorStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks/VectorStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vthreads/HelloRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vthreads/HelloRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vthreads/HelloThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vthreads/HelloThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vthreads/PlatformThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vthreads/PlatformThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vthreads/SleepMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vthreads/SleepMessages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vthreads/VirtualThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vthreads/VirtualThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TAP3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/README" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP4/README" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP4/README" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

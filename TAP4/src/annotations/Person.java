@@ -3,8 +3,6 @@ package annotations;
 /**
  * Created by pedro on 9/24/15.
  */
-
-
 @Copyright(
         priority = Copyright.Priority.HIGH,
         createdBy = "pedro",

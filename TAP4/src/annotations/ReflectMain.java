@@ -7,14 +7,11 @@ import java.lang.annotation.Annotation;
  */
 public class ReflectMain {
 
-    public static void main(String args[]){
+    public static void main(String args[]) {
         Class<Person> obj = Person.class;
-
-           if (obj.isAnnotationPresent(Copyright.class)) {
-
+        if (obj.isAnnotationPresent(Copyright.class)) {
             Annotation annotation = obj.getAnnotation(Copyright.class);
             Copyright copy = (Copyright) annotation;
-
 
             System.out.printf("%nPriority :%s", copy.priority());
             System.out.printf("%nCreatedBy :%s", copy.createdBy());
@@ -29,12 +26,7 @@ public class ReflectMain {
                 }
                 tagLength--;
             }
-
             System.out.printf("%nLastModified :%s%n%n", copy.lastModified());
-
         }
-
-
-
     }
 }

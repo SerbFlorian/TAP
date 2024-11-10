@@ -1,4 +1,3 @@
-
 package factory2;
 
 import java.sql.Connection;
@@ -9,166 +8,158 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 /**
- * Title:        Testdb
- * Description:  simple hello world db example of a
- *               standalone persistent db application
- *
- *               every time it runs it adds four more rows to sample_table
- *               it does a query and prints the results to standard out
- *
- * Author: Karl Meissner karl@meissnersd.com
+ * Clase SQLTest que proporciona una interfaz sencilla para interactuar con una base de datos HSQLDB.
+ * <p>
+ * La clase establece una conexión con la base de datos, ejecuta comandos SQL de consulta y actualización,
+ * y permite ver los resultados de las consultas.
+ * <p>
+ * Cada vez que se ejecuta, la clase crea una tabla si no existe y agrega filas a la misma.
+ * Después, realiza una consulta para obtener datos y mostrar los resultados.
+ * <p>
+ * Autor: Karl Meissner (karl@meissnersd.com)
  */
-        public class SQLTest {
+public class SQLTest {
+    // Conexión persistente a la base de datos
+    Connection conn; // Nuestra conexión a la base de datos, persiste durante la vida del programa
 
-            Connection conn;                                                //our connnection to the db - presist for life of program
+    /**
+     * Constructor que inicializa la conexión con la base de datos.
+     *
+     * @param db_file_name_prefix Nombre del archivo de la base de datos.
+     * @throws Exception Si ocurre un error al cargar el controlador JDBC o al establecer la conexión.
+     */
+    public SQLTest(String db_file_name_prefix) throws Exception {
+        // Cargar el driver JDBC de HSQLDB
+        // hsqldb.jar debe estar en el classpath o dentro del jar actual
+        Class.forName("org.hsqldb.jdbcDriver");
 
-            // we dont want this garbage collected until we are done
-            public SQLTest(String db_file_name_prefix) throws Exception {    // note more general exception
+        // Conectarse a la base de datos. Esto cargará los archivos de la base de datos
+        // y arrancará el motor de base de datos si no está en ejecución
+        conn = DriverManager.getConnection("jdbc:hsqldb:" + db_file_name_prefix, "sa", "");
+    }
 
-                // Load the HSQL Database Engine JDBC driver
-                // hsqldb.jar should be in the class path or made part of the current jar
-                Class.forName("org.hsqldb.jdbcDriver");
+    /**
+     * Realiza una desconexión limpia de la base de datos, guardando los datos y cerrando la conexión.
+     *
+     * @throws SQLException Si ocurre un error durante el cierre de la base de datos.
+     */
+    public void shutdown() throws SQLException {
+        Statement st = conn.createStatement();
 
-                // connect to the database.   This will load the db files and start the
-                // database if it is not alread running.
-                // db_file_name_prefix is used to open or create files that hold the state
-                // of the db.
-                // It can contain directory names relative to the
-                // current working directory
-                conn = DriverManager.getConnection("jdbc:hsqldb:"
-                                + db_file_name_prefix,    // filenames
-                        "sa",                     // username
-                        "");                      // password
+        // Realizar un apagado limpio de la base de datos
+        st.execute("SHUTDOWN");
+        conn.close(); // Cerrar la conexión si no hay otras abiertas
+    }
+
+    /**
+     * Ejecuta una consulta SQL y muestra los resultados.
+     *
+     * @param expression La consulta SQL a ejecutar.
+     * @throws SQLException Si ocurre un error al ejecutar la consulta.
+     */
+    public synchronized void query(String expression) throws SQLException {
+        Statement st = null;
+        ResultSet rs = null;
+
+        // Crear una declaración y ejecutar la consulta
+        st = conn.createStatement();
+        rs = st.executeQuery(expression);
+
+        // Mostrar los resultados de la consulta
+        dump(rs);
+        st.close(); // Cerrar la declaración (esto también cierra el ResultSet asociado)
+    }
+
+    /**
+     * Ejecuta una actualización SQL (como INSERT, UPDATE o DELETE).
+     *
+     * @param expression La instrucción SQL a ejecutar.
+     * @throws SQLException Si ocurre un error al ejecutar la actualización.
+     */
+    public synchronized void update(String expression) throws SQLException {
+        Statement st = null;
+
+        // Crear una declaración y ejecutar la actualización
+        st = conn.createStatement();
+
+        int i = st.executeUpdate(expression); // Ejecutar la consulta de actualización
+
+        // Comprobar si la actualización ha fallado
+        if (i == -1) {
+            System.out.println("Error en la base de datos: " + expression);
+        }
+
+        st.close();
+    }
+
+    /**
+     * Muestra los resultados de una consulta SQL.
+     *
+     * @param rs El ResultSet que contiene los datos de la consulta.
+     * @throws SQLException Si ocurre un error al leer los datos del ResultSet.
+     */
+    public static void dump(ResultSet rs) throws SQLException {
+        // Obtener los metadatos de la consulta
+        ResultSetMetaData meta = rs.getMetaData();
+        int colmax = meta.getColumnCount(); // Número de columnas en el ResultSet
+        int i;
+        Object o = null;
+
+        // Recorrer el ResultSet y mostrar cada fila
+        while (rs.next()) {
+            for (i = 0; i < colmax; ++i) {
+                o = rs.getObject(i + 1); // Obtener el valor de la columna (índice 1 basado)
+
+                // Imprimir el valor de la columna
+                System.out.print(o.toString() + " ");
             }
 
-            public void shutdown() throws SQLException {
+            // Imprimir una línea de separación entre filas
+            System.out.println(" ");
+        }
+    }
 
-                Statement st = conn.createStatement();
+    /**
+     * Método principal que ejecuta el flujo de trabajo principal del programa.
+     * <p>
+     * Crea una base de datos, una tabla y agrega filas. Luego realiza una consulta
+     * y muestra los resultados antes de cerrar la base de datos.
+     *
+     * @param args Argumentos de línea de comandos (no utilizados en este ejemplo).
+     */
+    public static void main(String[] args) {
+        SQLTest db = null;
 
-                // db writes out to files and performs clean shuts down
-                // otherwise there will be an unclean shutdown
-                // when program ends
-                st.execute("SHUTDOWN");
-                conn.close();    // if there are no other open connection
-            }
+        try {
+            // Crear una nueva instancia de la clase SQLTest con el archivo de base de datos
+            db = new SQLTest("db_file");
+        } catch (Exception ex1) {
+            ex1.printStackTrace(); // Si ocurre un error al iniciar la base de datos
+            return; // Terminar el programa
+        }
 
-            //use for SQL command SELECT
-            public synchronized void query(String expression) throws SQLException {
+        try {
+            // Crear una tabla vacía
+            db.update("CREATE TABLE sample_table ( id INTEGER IDENTITY, str_col VARCHAR(256), num_col INTEGER)");
+        } catch (SQLException ex2) {
+            // Ignorar error si la tabla ya existe
+            // ex2.printStackTrace(); // Si se desea depurar el error
+        }
 
-                Statement st = null;
-                ResultSet rs = null;
+        try {
+            // Insertar algunas filas en la tabla
+            db.update("INSERT INTO sample_table(str_col,num_col) VALUES('Ford', 100)");
+            db.update("INSERT INTO sample_table(str_col,num_col) VALUES('Toyota', 200)");
+            db.update("INSERT INTO sample_table(str_col,num_col) VALUES('Honda', 300)");
+            db.update("INSERT INTO sample_table(str_col,num_col) VALUES('GM', 400)");
 
-                st = conn.createStatement();         // statement objects can be reused with
+            // Realizar una consulta y mostrar los resultados
+            db.query("SELECT * FROM sample_table WHERE num_col < 250");
 
-                // repeated calls to execute but we
-                // choose to make a new one each time
-                rs = st.executeQuery(expression);    // run the query
-
-                // do something with the result set.
-                dump(rs);
-                st.close();    // NOTE!! if you close a statement the associated ResultSet is
-
-                // closed too
-                // so you should copy the contents to some other object.
-                // the result set is invalidated also  if you recycle an Statement
-                // and try to execute some other query before the result set has been
-                // completely examined.
-            }
-
-            //use for SQL commands CREATE, DROP, INSERT and UPDATE
-            public synchronized void update(String expression) throws SQLException {
-
-                Statement st = null;
-
-                st = conn.createStatement();    // statements
-
-                int i = st.executeUpdate(expression);    // run the query
-
-                if (i == -1) {
-                    System.out.println("db error : " + expression);
-                }
-
-                st.close();
-            }    // void update()
-
-            public static void dump(ResultSet rs) throws SQLException {
-
-                // the order of the rows in a cursor
-                // are implementation dependent unless you use the SQL ORDER statement
-                ResultSetMetaData meta   = rs.getMetaData();
-                int               colmax = meta.getColumnCount();
-                int               i;
-                Object            o = null;
-
-                // the result set is a cursor into the data.  You can only
-                // point to one row at a time
-                // assume we are pointing to BEFORE the first row
-                // rs.next() points to next row and returns true
-                // or false if there is no next row, which breaks the loop
-                for (; rs.next(); ) {
-                    for (i = 0; i < colmax; ++i) {
-                        o = rs.getObject(i + 1);    // Is SQL the first column is indexed
-
-                        // with 1 not 0
-                        System.out.print(o.toString() + " ");
-                    }
-
-                    System.out.println(" ");
-                }
-            }                                       //void dump( ResultSet rs )
-
-            public static void main(String[] args) {
-
-                SQLTest db = null;
-
-                try {
-                    db = new SQLTest("db_file");
-                } catch (Exception ex1) {
-                    ex1.printStackTrace();    // could not start db
-
-                    return;                   // bye bye
-                }
-
-                try {
-
-                    //make an empty table
-                    //
-                    // by declaring the id column IDENTITY, the db will automatically
-                    // generate unique values for new rows- useful for row keys
-                    db.update(
-                            "CREATE TABLE sample_table ( id INTEGER IDENTITY, str_col VARCHAR(256), num_col INTEGER)");
-                } catch (SQLException ex2) {
-
-                    //ignore
-                    //ex2.printStackTrace();  // second time we run program
-                    //  should throw execption since table
-                    // already there
-                    //
-                    // this will have no effect on the db
-                }
-
-                try {
-
-                    // add some rows - will create duplicates if run more then once
-                    // the id column is automatically generated
-                    db.update(
-                            "INSERT INTO sample_table(str_col,num_col) VALUES('Ford', 100)");
-                    db.update(
-                            "INSERT INTO sample_table(str_col,num_col) VALUES('Toyota', 200)");
-                    db.update(
-                            "INSERT INTO sample_table(str_col,num_col) VALUES('Honda', 300)");
-                    db.update(
-                            "INSERT INTO sample_table(str_col,num_col) VALUES('GM', 400)");
-
-                    // do a query
-                    db.query("SELECT * FROM sample_table WHERE num_col < 250");
-
-                    // at end of program
-                    db.shutdown();
-                } catch (SQLException ex3) {
-                    ex3.printStackTrace();
-                }
-            }    // main()
-}    // class Testdb
-
-
+            // Apagar la base de datos y cerrar la conexión al final
+            db.shutdown();
+        } catch (SQLException ex3) {
+            ex3.printStackTrace(); // Si ocurre un error durante la inserción o la consulta
+        }
+    } // main()
+} // class SQLTest
