@@ -1,20 +1,39 @@
 package template;
 
 /**
- * http://www.tutorialspoint.com/design_pattern/template_pattern.htm
+ * Clase que representa un juego de fútbol y proporciona la implementación específica
+ * de los métodos definidos en la clase abstracta `Game` como parte del patrón Template Method.
+ * <p>
+ * Esta clase implementa los pasos específicos del juego de fútbol:
+ * - Inicialización del juego.
+ * - Inicio del juego.
+ * - Finalización del juego.
+ * <p>
+ * Fuente: http://www.tutorialspoint.com/design_pattern/template_pattern.htm
  */
 public class Football extends Game {
-
+    /**
+     * Implementación del método `endPlay` para el juego de fútbol.
+     * Este método se encarga de mostrar el mensaje que indica que el juego ha terminado.
+     */
     @Override
     void endPlay() {
         System.out.println("Football Game Finished!");
     }
 
+    /**
+     * Implementación del método `initialize` para el juego de fútbol.
+     * Este método se encarga de mostrar el mensaje de inicialización del juego.
+     */
     @Override
     void initialize() {
         System.out.println("Football Game Initialized! Start playing.");
     }
 
+    /**
+     * Implementación del método `startPlay` para el juego de fútbol.
+     * Este método se encarga de mostrar el mensaje que indica que el juego ha comenzado.
+     */
     @Override
     void startPlay() {
         System.out.println("Football Game Started. Enjoy the game!");

@@ -2,9 +2,6 @@ package annotations;
 
 import java.lang.annotation.Annotation;
 
-/**
- * Created by pedro on 9/24/15.
- */
 public class ReflectMain {
 
     public static void main(String args[]) {

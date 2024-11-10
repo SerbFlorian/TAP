@@ -5,43 +5,117 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="024cd87f-eb98-4d9d-8a09-9b114020ffe4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../TAP2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adapter/CigaretteLighterReceptacle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/adapter/CigaretteLighterReceptacle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adapter/MP3Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/adapter/MP3Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adapter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/adapter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adapter/Usb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/adapter/Usb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adapter/UsbToCarAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/adapter/UsbToCarAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/composite/AComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/composite/AComponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/composite/Directory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/composite/Directory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/composite/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/composite/File.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/composite/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/composite/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/AbstractCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/AbstractCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/AbstractCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/AbstractCarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/SpanishCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/SpanishCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/SpanishCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/SpanishCarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/UKCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/UKCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/UKCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/UKCarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory2/SQLTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory2/SQLTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iterator/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iterator/Container.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iterator/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iterator/Iterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iterator/IteratorPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iterator/IteratorPatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iterator/NameRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iterator/NameRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/observer/BinaryObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/BinaryObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/observer/HexaObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/HexaObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/observer/OctalObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/OctalObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/observer/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/observer/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proxy/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/Image.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proxy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proxy/ProxyImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/ProxyImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/proxy/RealImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/RealImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleton/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleton/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/singleton/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/singleton/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem/AComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem/AComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem/Directory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem/Directory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem/File.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem/File.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem2/AComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem2/AComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem2/Directory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem2/Directory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem2/ExistException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem2/ExistException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem2/File.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem2/File.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem2/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/filesystem2/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/iterator/IteratorPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/iterator/IteratorPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/iterator/NameRepository$NameIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/iterator/NameRepository$NameIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/iterator/NameRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/iterator/NameRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/observer/BackupObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/observer/BackupObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/observer/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/observer/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/observer/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/observer/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/observer/ObserverList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/observer/ObserverList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/observer/ObserverListImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/observer/ObserverListImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/observer/PrinterObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/observer/PrinterObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/observer/RepeatedObserverException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/observer/RepeatedObserverException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/visitor/AComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/visitor/AComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/visitor/Directory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/visitor/Directory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/visitor/File.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/visitor/File.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/visitor/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/visitor/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/visitor/OwnerVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/visitor/OwnerVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/visitor/SearchVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/visitor/SearchVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/visitor/SizeVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/visitor/SizeVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/solutions/visitor/Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/solutions/visitor/Visitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/state/DeliveredState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/state/DeliveredState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/state/OrderedState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/state/OrderedState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/state/Package.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/state/Package.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/state/ReceivedState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/state/ReceivedState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/state/StateDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/state/StateDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/strategy/Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/strategy/Context.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/strategy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/strategy/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/strategy/OperationAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/strategy/OperationAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/strategy/OperationMultiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/strategy/OperationMultiply.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/strategy/OperationSubstract.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/strategy/OperationSubstract.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/template/Cricket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/template/Cricket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/template/Football.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/template/Football.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/template/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/template/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/template/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/template/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/visitor/CorruptTaxiVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/visitor/CorruptTaxiVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/visitor/HastyPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/visitor/HastyPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/visitor/HonoredTaxiVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/visitor/HonoredTaxiVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/visitor/LeisurelyPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/visitor/LeisurelyPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/visitor/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/visitor/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/visitor/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/visitor/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/visitor/TaxiVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/visitor/TaxiVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/filesystem/AComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/filesystem/AComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/filesystem/Directory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/filesystem/Directory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/filesystem/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/filesystem/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/filesystem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/filesystem/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/filesystem2/AComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/filesystem2/AComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/filesystem2/Directory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/filesystem2/Directory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/filesystem2/ExistException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/filesystem2/ExistException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/filesystem2/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/filesystem2/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/filesystem2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/filesystem2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/filesystem2/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/filesystem2/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/iterator/IteratorPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/iterator/IteratorPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/iterator/NameRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/iterator/NameRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/observer/BackupObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/observer/BackupObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/observer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/observer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/observer/ObserverList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/observer/ObserverList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/observer/ObserverListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/observer/ObserverListImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/observer/PrinterObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/observer/PrinterObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/observer/RepeatedObserverException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/observer/RepeatedObserverException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/visitor/AComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/visitor/AComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/visitor/Directory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/visitor/Directory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/visitor/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/visitor/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/visitor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/visitor/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/visitor/OwnerVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/visitor/OwnerVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/visitor/SearchVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/visitor/SearchVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/visitor/SizeVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/visitor/SizeVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/visitor/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/visitor/Visitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/state/DeliveredState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/DeliveredState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/state/OrderedState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/OrderedState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/state/Package.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/Package.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/state/PackageState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/PackageState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/state/ReceivedState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/ReceivedState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/state/StateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/StateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/OperationAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/OperationAdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/OperationMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/OperationMultiply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/OperationSubstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/OperationSubstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strategy/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/Strategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/Cricket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/Cricket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/Football.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/Football.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor/CorruptTaxiVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor/CorruptTaxiVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor/HastyPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor/HastyPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor/HonoredTaxiVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor/HonoredTaxiVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor/LeisurelyPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor/LeisurelyPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor/TaxiVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor/TaxiVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor2/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor2/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor2/ComputerPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor2/ComputerPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor2/ComputerPartDisplayVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor2/ComputerPartDisplayVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor2/ComputerPartVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor2/ComputerPartVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor2/Keyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor2/Keyboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor2/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor2/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor2/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor2/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/visitor2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP4/src/annotations/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP4/src/annotations/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP4/README" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP4/README" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TAP4/src/annotations/ReflectMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP4/src/annotations/ReflectMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -286,25 +360,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.IteratorPatternDemo.executor": "Run",
-    "Application.Main (4).executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.SQLTest.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.adapter.Main.executor": "Run",
-    "Application.composite.Main.executor": "Run",
-    "Application.decorator.Main.executor": "Run",
-    "Application.proxy.Main.executor": "Run",
-    "Application.singleton.Main.executor": "Run",
-    "Application.solutions.filesystem2.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.IteratorPatternDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SQLTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StateDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.adapter.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.composite.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.decorator.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.proxy.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.singleton.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solutions.filesystem2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solutions.observer.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solutions.visitor.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.template.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.visitor.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -317,7 +396,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.singleton.Main">
+  <component name="RunManager" selected="Application.Test">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -526,13 +605,13 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="IteratorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iterator.IteratorPatternDemo" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strategy.Main" />
       <module name="TAP3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="iterator.*" />
+          <option name="PATTERN" value="strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -540,13 +619,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SQLTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factory2.SQLTest" />
+    <configuration name="StateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="state.StateDemo" />
       <module name="TAP3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="factory2.*" />
+          <option name="PATTERN" value="state.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -555,12 +634,12 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="observer.Test" />
+      <option name="MAIN_CLASS_NAME" value="visitor2.Test" />
       <module name="TAP3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="observer.*" />
+          <option name="PATTERN" value="visitor2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -574,13 +653,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="proxy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="proxy.Main" />
+    <configuration name="template.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="template.Main" />
       <module name="TAP3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="proxy.*" />
+          <option name="PATTERN" value="template.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -588,13 +667,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="singleton.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="singleton.Main" />
+    <configuration name="visitor.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="visitor.Main" />
       <module name="TAP3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="singleton.*" />
+          <option name="PATTERN" value="visitor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -625,19 +704,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.IteratorPatternDemo" />
-      <item itemvalue="Application.SQLTest" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.StateDemo" />
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.proxy.Main" />
-      <item itemvalue="Application.singleton.Main" />
+      <item itemvalue="Application.template.Main" />
+      <item itemvalue="Application.visitor.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.singleton.Main" />
-        <item itemvalue="Application.proxy.Main" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.IteratorPatternDemo" />
-        <item itemvalue="Application.SQLTest" />
+        <item itemvalue="Application.visitor.Main" />
+        <item itemvalue="Application.template.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.StateDemo" />
       </list>
     </recent_temporary>
   </component>
