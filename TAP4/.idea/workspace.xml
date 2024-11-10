@@ -8,20 +8,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfac48ad-a1a6-4450-b0df-95f5511d3cab" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/README" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/defaultmethods/DefaultPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/defaultmethods/DefaultPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/defaultmethods/DefaultTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/defaultmethods/DefaultTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/defaultmethods/ICorrupt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/defaultmethods/ICorrupt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/defaultmethods/IPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/defaultmethods/IPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/functional/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/functional/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/functional/ComparatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/functional/ComparatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/functional/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/functional/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/functional/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/functional/Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/functional/Functional.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/functional/Functional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/functional/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/functional/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/functional/ListenerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/functional/ListenerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/functional/Map2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/functional/Map2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/functional/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/functional/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/functional/RunnableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/functional/RunnableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/functional/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/functional/Streams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/functional/Streams2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/functional/Streams2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/functional/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/functional/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/functional/TestFlatMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/functional/TestFlatMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/functional/TestParallel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/functional/TestParallel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/generics/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/generics/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/generics/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/generics/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/generics/MutantParrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/generics/MutantParrot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/generics/Parrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/generics/Parrot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/generics/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/generics/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/generics/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/generics/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/generics/Thing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/generics/Thing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/generics/Thing2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/generics/Thing2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/generics/UseThing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/generics/UseThing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/generics/UseThing2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/generics/UseThing2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/map/IMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/map/IMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/map/Increment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/map/Increment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/map/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/map/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/map/MapSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/map/MapSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/map/MapUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/map/MapUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/map/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/map/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TAP3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TAP3/README" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor/HastyPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor/HastyPerson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/visitor/HastyPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/visitor/HastyPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/visitor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/visitor/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/visitor2/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/visitor2/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/visitor2/ComputerPartVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/visitor2/ComputerPartVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/visitor2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/visitor2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/annotations/Copyright.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/annotations/Copyright.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,17 +320,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Florian/Desktop",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Florian/Desktop&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/json" />

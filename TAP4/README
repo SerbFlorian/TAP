@@ -12,7 +12,18 @@ TAP 4
 
 Proposed exercises
 ----------------------------------------
-
+1. On esta el CONTRACTE= qui ereta del pare -> IMPLEMENT/EXTENDS
+ se establece mediante el uso de IMPLEMENTS o EXTENDS,
+ para indicar que una clase hereda de una clase PADRE o implementa una interfaz.
+2. Assignacio POLIMORFICA= on es fa el new, ja que li estic passant una filla
+ significa que se esta creando una INSTANCIA de una subclase(hija) y
+ asignandola a una variable de la superclase(padre)
+ Esto permite que la variable de la superclase pueda referenciar a
+ cualquier OBJETO de una subclase, aprovechando el polimorfismo.
+3. DINAMIC BINDING= crido la classe pare, pero com tinc assignada una filla, doncs cridara la filla
+ se refiere a la capacidad de un programa pra resolver llamadas a
+ metodos en tiempo de ejecucion en lugar
+ de en tiempo de compilación.
 
 1. Create your own dynamic proxy (use dynamic package) to intercept your own class.
 2. Create your own dynamic proxy that intercepts all calls to EmpBusinessLogic and shows in System.out method name and parameters.

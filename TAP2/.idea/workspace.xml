@@ -1,138 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5b6a419e-c707-43ab-a992-18d0d09502ac" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/bank/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/bank/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/bank/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/bank/Bank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/bank/BonusAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/bank/BonusAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/bank/CheckingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/bank/CheckingAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/bank/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/bank/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/bank/InvestFund.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/bank/InvestFund.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/bank/NoMoney.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/bank/NoMoney.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/bank/SaveAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/bank/SaveAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/bank/UseBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/bank/UseBank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/cars/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/cars/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/cars/UseCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/cars/UseCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/exception/TAPException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/exception/TAPException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/exception/TAPMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/exception/TAPMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/exception/TapCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/exception/TapCourse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/farm/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/farm/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/farm/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/farm/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/farm/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/farm/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/farm/MutantParrot.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/farm/MutantParrot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/farm/Parrot.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/farm/Parrot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/farm/UseAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/farm/UseAnimal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/farm/UseAnimal2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/farm/UseAnimal2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/inheritance/Bart.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/inheritance/Bart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/inheritance/Homer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/inheritance/Homer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/inheritance/Talkative.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/inheritance/Talkative.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/inheritance/UseTalkative.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/inheritance/UseTalkative.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/interfaces/Bop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/interfaces/Bop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/interfaces/Castings.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/interfaces/Castings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/interfaces/Musician.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/interfaces/Musician.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/interfaces/Thing.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/interfaces/Thing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/interfaces/UseThing.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/interfaces/UseThing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/others/IO1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/others/IO1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/others/IO2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/others/IO2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/others/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/others/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/others/Property.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/others/Property.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/others/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/others/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/others/Tokens.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/others/Tokens.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/stacks/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/stacks/ArrayStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/stacks/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/stacks/Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/stacks/VectorStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/stacks/VectorStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/AgeComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/AgeComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/ListSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/ListSample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/MapSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/MapSample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/NameComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/NameComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/Test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/Test3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/Test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/out/production/TAP1/structures/Test4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/bank/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/bank/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/bank/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/bank/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/bank/BonusAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/bank/BonusAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/bank/CheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/bank/CheckingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/bank/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/bank/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/bank/InvestFund.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/bank/InvestFund.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/bank/NoMoney.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/bank/NoMoney.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/bank/SaveAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/bank/SaveAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/bank/UseBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/bank/UseBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/cars/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/cars/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/cars/UseCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/cars/UseCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/exception/TAPException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/exception/TAPException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/exception/TAPMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/exception/TAPMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/exception/TapCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/exception/TapCourse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/farm/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/farm/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/farm/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/farm/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/farm/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/farm/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/farm/MutantParrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/farm/MutantParrot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/farm/Parrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/farm/Parrot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/farm/UseAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/farm/UseAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/farm/UseAnimal2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/farm/UseAnimal2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/inheritance/Bart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/inheritance/Bart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/inheritance/Homer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/inheritance/Homer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/inheritance/Talkative.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/inheritance/Talkative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/inheritance/UseTalkative.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/inheritance/UseTalkative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/interfaces/Bop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/interfaces/Bop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/interfaces/Castings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/interfaces/Castings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/interfaces/Musician.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/interfaces/Musician.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/interfaces/Thing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/interfaces/Thing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/interfaces/UseThing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/interfaces/UseThing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/others/IO1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/others/IO1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/others/IO2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/others/IO2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/others/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/others/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/others/Property.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/others/Property.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/others/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/others/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/others/Tokens.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/others/Tokens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/stacks/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/stacks/ArrayStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/stacks/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/stacks/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/stacks/VectorStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/stacks/VectorStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/structures/AgeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/structures/AgeComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/structures/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/structures/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/structures/ListSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/structures/ListSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/structures/MapSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/structures/MapSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/structures/NameComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/structures/NameComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/structures/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/structures/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/structures/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/structures/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/structures/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/structures/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/structures/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/structures/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/src/structures/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/src/structures/Test4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/defaultmethods/DefaultPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultmethods/DefaultPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/defaultmethods/DefaultTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultmethods/DefaultTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/defaultmethods/ICorrupt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultmethods/ICorrupt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/defaultmethods/IPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultmethods/IPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional/ComparatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/ComparatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional/Functional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Functional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/functional/Gender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Gender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional/ListenerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/ListenerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional/Map2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Map2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional/RunnableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/RunnableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional/Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Streams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional/Streams2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Streams2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional/TestFlatMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/TestFlatMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/functional/TestParallel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/functional/TestParallel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/MutantParrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/MutantParrot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/Parrot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/Parrot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/Thing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/Thing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/Thing2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/Thing2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/UseThing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/UseThing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/UseThing2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/UseThing2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/map/IMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/IMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/Increment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/Increment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/MapSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/MapSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/MapUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/MapUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map2/Capitals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map2/Capitals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/map2/Imap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map2/Imap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map2/Increment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map2/Increment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map2/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map2/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map2/MapSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map2/MapSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map2/MapUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map2/MapUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map2/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map2/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/Enum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/Enum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/other/Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/other/Static.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/patternmatching/InsultMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patternmatching/InsultMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/patternmatching/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patternmatching/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/patternmatching/QuitMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patternmatching/QuitMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/patternmatching/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patternmatching/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/solutions/accounts/AccType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/accounts/AccType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/accounts/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/accounts/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/accounts/Tokens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/accounts/Tokens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/bstree/BSTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/bstree/BSTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/bstree/Comparaint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/bstree/Comparaint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/bstree/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/bstree/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/bstree2/BSTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/bstree2/BSTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solutions/bstree2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/bstree2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stacks/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks/ArrayStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/stacks/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stacks/UseStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks/UseStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stacks/VectorStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stacks/VectorStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vthreads/HelloRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vthreads/HelloRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vthreads/HelloThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vthreads/HelloThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vthreads/PlatformThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vthreads/PlatformThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vthreads/SleepMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vthreads/SleepMessages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vthreads/VirtualThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vthreads/VirtualThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TAP3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TAP3/README" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor/HastyPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor/HastyPerson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/decorator/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/decorator/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/decorator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/decorator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/decorator/NitroDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/decorator/NitroDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/iterator/IteratorPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/iterator/IteratorPatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/observer/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/observer/OctalObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/observer/OctalObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/observer/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/observer/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/observer/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/observer/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/proxy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/proxy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/proxy/ProxyImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/proxy/ProxyImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/visitor/HastyPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/visitor/HastyPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/visitor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/visitor/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/visitor2/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/visitor2/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/visitor2/ComputerPartVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/visitor2/ComputerPartVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/visitor2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/visitor2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP4/src/annotations/Copyright.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP4/src/annotations/Copyright.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP4/README" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP4/README" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -370,14 +313,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ComparatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DefaultTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Enum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Filter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Functional.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloRunnable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListenerTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Map2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapSample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PlatformThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunnableTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SleepMessages.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Static.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Streams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Streams2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestFlatMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestParallel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tokens.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UseStack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UseThing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UseThing2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VirtualThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.map2.MapSample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solutions.bstree2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/generics" />
@@ -391,7 +362,7 @@
       <recent name="functional" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Enum">
+  <component name="RunManager" selected="Application.VirtualThread">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -594,13 +565,13 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="Enum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.Enum" />
+    <configuration name="HelloRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vthreads.HelloRunnable" />
       <module name="TAP2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.*" />
+          <option name="PATTERN" value="vthreads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -608,13 +579,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapSample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="map.MapSample" />
+    <configuration name="HelloThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vthreads.HelloThread" />
       <module name="TAP2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="map.*" />
+          <option name="PATTERN" value="vthreads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -622,13 +593,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="map2.MapSample" />
+    <configuration name="PlatformThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vthreads.PlatformThread" />
       <module name="TAP2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="map2.*" />
+          <option name="PATTERN" value="vthreads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -636,13 +607,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseThing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.UseThing" />
+    <configuration name="SleepMessages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vthreads.SleepMessages" />
       <module name="TAP2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.*" />
+          <option name="PATTERN" value="vthreads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -650,13 +621,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseThing2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.UseThing2" />
+    <configuration name="VirtualThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vthreads.VirtualThread" />
       <module name="TAP2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.*" />
+          <option name="PATTERN" value="vthreads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -693,19 +664,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MapSample" />
-      <item itemvalue="Application.MapSample (1)" />
-      <item itemvalue="Application.UseThing2" />
-      <item itemvalue="Application.UseThing" />
-      <item itemvalue="Application.Enum" />
+      <item itemvalue="Application.HelloRunnable" />
+      <item itemvalue="Application.HelloThread" />
+      <item itemvalue="Application.PlatformThread" />
+      <item itemvalue="Application.SleepMessages" />
+      <item itemvalue="Application.VirtualThread" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Enum" />
-        <item itemvalue="Application.UseThing" />
-        <item itemvalue="Application.UseThing2" />
-        <item itemvalue="Application.MapSample (1)" />
-        <item itemvalue="Application.MapSample" />
+        <item itemvalue="Application.VirtualThread" />
+        <item itemvalue="Application.SleepMessages" />
+        <item itemvalue="Application.PlatformThread" />
+        <item itemvalue="Application.HelloThread" />
+        <item itemvalue="Application.HelloRunnable" />
       </list>
     </recent_temporary>
   </component>
