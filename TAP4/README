@@ -1,12 +1,6 @@
 TAP 4
 -------------------------------------
 
-/**
- * CONTRACTE -> TaxiVisitor
- * ASSIGNACIO POLIMORFICA -> new HonoredTaxiVisitor() y new CorruptTaxiVisitor(),
- * ja que es on espero la classe pare i li assigno la filla
- * DYNAMIC BIDING -> .accept()
- */
 1. Reflection (reflection. annotations)
 2. Interception (dynamic, dynamicproxy)
 3. Unit testing (calculator, employee)
