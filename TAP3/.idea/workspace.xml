@@ -5,28 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="024cd87f-eb98-4d9d-8a09-9b114020ffe4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/factoryAbstract/AbstractCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryAbstract/AbstractCarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryAbstract/AbstractEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryAbstract/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryAbstract/SpanishCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryAbstract/SpanishCarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryAbstract/SpanishEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryAbstract/UKCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryAbstract/UKCarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factoryAbstract/UKEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TAP2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TAP3/factory/SpanishCarFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/factory/SpanishCarFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TAP3/visitor2/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/visitor2/Computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TAP3/visitor2/ComputerPartDisplayVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/visitor2/ComputerPartDisplayVisitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TAP3/visitor2/Keyboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/visitor2/Keyboard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TAP3/visitor2/Monitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/visitor2/Monitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TAP3/visitor2/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/visitor2/Mouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TAP3/visitor2/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/visitor2/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/SpanishCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/SpanishCarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/AbstractCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/AbstractCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/AbstractCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/AbstractCarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/AbstractEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/AbstractEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/SpanishCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/SpanishCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/SpanishCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/SpanishCarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/SpanishEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/SpanishEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/UKCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/UKCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/UKCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/UKCarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/UKEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/UKEngine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,35 +264,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.IteratorPatternDemo.executor": "Run",
-    "Application.Main (4).executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.SQLTest.executor": "Run",
-    "Application.StateDemo.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.adapter.Main.executor": "Run",
-    "Application.composite.Main.executor": "Run",
-    "Application.decorator.Main.executor": "Run",
-    "Application.factory.Main.executor": "Run",
-    "Application.proxy.Main.executor": "Run",
-    "Application.singleton.Main.executor": "Run",
-    "Application.solutions.filesystem2.Main.executor": "Run",
-    "Application.solutions.observer.Main.executor": "Run",
-    "Application.solutions.visitor.Main.executor": "Run",
-    "Application.template.Main.executor": "Run",
-    "Application.visitor.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Florian/Desktop/GEI_4t/1r_Quad/4_TAP/TAP_Practicar/TAPBoo/TAP3/src/abstractFactory",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.IteratorPatternDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SQLTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StateDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.adapter.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.composite.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.decorator.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factory.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.proxy.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.singleton.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solutions.filesystem2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solutions.observer.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solutions.visitor.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.template.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.visitor.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Florian/Desktop/GEI_4t/1r_Quad/4_TAP/TAP_Practicar/TAPBoo/TAP3/src/abstractFactory&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Florian\Desktop\GEI_4t\1r_Quad\4_TAP\TAP_Practicar\TAPBoo\TAP3\src\abstractFactory" />
@@ -318,7 +308,7 @@
       <recent name="abstractFactory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.singleton.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -634,8 +624,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.singleton.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.singleton.Main" />
         <item itemvalue="Application.SQLTest" />
         <item itemvalue="Application.factory.Main" />
         <item itemvalue="Application.IteratorPatternDemo" />

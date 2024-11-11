@@ -2,12 +2,14 @@ package factoryAbstract;
 
 /**
  * Interfaz AbstractEngine que define el comportamiento básico de un motor de coche.
+ * Las clases que implementen esta interfaz deberán especificar el tipo de combustible
+ * utilizado por el motor, permitiendo variar entre tipos de motor sin modificar el código del cliente.
  */
 interface AbstractEngine {
     /**
-     * Método que devuelve el tipo de combustible que utiliza el motor.
+     * Devuelve el tipo de combustible que utiliza el motor.
      *
-     * @return Un String que indica el tipo de combustible ("gasolina" o "diesel").
+     * @return Un String que indica el tipo de combustible, como "gasolina" o "diesel".
      */
     String getFuelType();
 }
