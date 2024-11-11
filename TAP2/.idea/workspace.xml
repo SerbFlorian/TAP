@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b6a419e-c707-43ab-a992-18d0d09502ac" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TAP3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/factory/SpanishCarFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/factory/SpanishCarFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/ComputerPartDisplayVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/ComputerPartDisplayVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Keyboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Keyboard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Monitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Monitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Mouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/src/factory/SpanishCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/factory/SpanishCarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

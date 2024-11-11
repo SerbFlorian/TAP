@@ -8,28 +8,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfac48ad-a1a6-4450-b0df-95f5511d3cab" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/factory/SpanishCarFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/factory/SpanishCarFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/ComputerPartDisplayVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/ComputerPartDisplayVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Keyboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Keyboard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Monitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Monitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Mouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/src/factory/SpanishCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/factory/SpanishCarFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/annotations/Copyright.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/annotations/Copyright.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/annotations/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/annotations/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/annotations/ReflectMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/annotations/ReflectMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculator/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculator/CalculatorTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/CalculatorTestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculator/CalculatorTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/CalculatorTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamic/DynamicProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamic/DynamicProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamic/Foo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamic/Foo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamic/FooImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamic/FooImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamic/MainProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamic/MainProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamicproxy/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicproxy/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamicproxy/TestIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicproxy/TestIF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamicproxy/TestImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicproxy/TestImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamicproxy/TestInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicproxy/TestInvocationHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/employee/EmpBusinessLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/employee/EmpBusinessLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/employee/EmployeeDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/employee/EmployeeDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/employee/EmployeeTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/employee/EmployeeTestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/employee/TestEmployeeDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/employee/TestEmployeeDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflection/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reflection/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -301,26 +291,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CalculatorTestRunner.executor": "Run",
-    "Application.EmployeeTestRunner.executor": "Run",
-    "Application.InspectTest.executor": "Run",
-    "Application.MainProxy.executor": "Run",
-    "Application.ReflectMain.executor": "Run",
-    "Application.Test.executor": "Run",
-    "JUnit.CalculatorTest.executor": "Run",
-    "JUnit.CalculatorTest.testAdd.executor": "Run",
-    "JUnit.TestEmployeeDetails.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Florian/Desktop",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CalculatorTestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeTestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InspectTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainProxy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReflectMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testAdd.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestEmployeeDetails.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Florian/Desktop/GEI_4t/1r_Quad/4_TAP/examenes_teoria&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/json" />
@@ -613,11 +603,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.EmployeeTestRunner" />
-      <item itemvalue="Application.MainProxy" />
       <item itemvalue="Application.InspectTest" />
+      <item itemvalue="Application.MainProxy" />
       <item itemvalue="Application.Test" />
-      <item itemvalue="JUnit.TestExmployee" />
       <item itemvalue="JUnit.TestEmployeeDetails" />
+      <item itemvalue="JUnit.TestExmployee" />
     </list>
     <recent_temporary>
       <list>

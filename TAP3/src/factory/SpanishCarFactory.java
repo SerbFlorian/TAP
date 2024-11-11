@@ -4,7 +4,7 @@ package factory; // Paquete donde se encuentra la clase
  * Fábrica concreta para crear instancias de coches españoles.
  * Implementa la interfaz {@link AbstractCarFactory} y devuelve una instancia de {@link SpanishCar}.
  */
-class SpanishCarFactory implements AbstractCarFactory {
+public class SpanishCarFactory implements AbstractCarFactory {
     /**
      * Método para crear un coche español.
      * Este método implementa el contrato definido en la interfaz {@link AbstractCarFactory} para
