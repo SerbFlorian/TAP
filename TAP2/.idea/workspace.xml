@@ -5,36 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b6a419e-c707-43ab-a992-18d0d09502ac" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/mediator/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/mediator/ComponentA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/mediator/ComponentB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/mediator/ConcreteMediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/mediator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/mediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/memento/Caretaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/memento/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/memento/Memento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/memento/Originator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solutions/Exercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solutions/Exercises2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/accounts/Tokens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/accounts/Tokens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP2/solutions/accounts/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP2/solutions/accounts/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP2/solutions/accounts/Tokens.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP2/solutions/accounts/Tokens.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TAP3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/composite/Directory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/composite/Directory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/composite/File.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/composite/File.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/NitroDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/NitroDecorator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/SpoilerDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/SpoilerDecorator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/factoryAbstract/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/factoryAbstract/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/proxy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/proxy/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/adapter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/adapter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/composite/Directory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/composite/Directory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/composite/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/composite/File.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/decorator/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/decorator/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/decorator/NitroDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/decorator/NitroDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/decorator/SpoilerDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/decorator/SpoilerDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/iterator/IteratorPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/iterator/IteratorPatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/proxy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/proxy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,6 +193,9 @@
     <option name="height" value="1000" />
   </component>
   <component name="ProjectId" id="2nTtTUP5De7n4vGbjo0LDiZhaJ1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -272,42 +252,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ComparatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DefaultTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Enum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Filter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Functional.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloRunnable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloThread.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ListenerTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Map2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MapSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PlatformThread.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunnableTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SleepMessages.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Static.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Streams.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Streams2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestFlatMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestParallel.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tokens.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UseStack.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UseThing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UseThing2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VirtualThread.executor&quot;: &quot;Run&quot;,
-    &quot;Application.map2.MapSample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solutions.bstree2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ComparatorTest.executor": "Run",
+    "Application.DefaultTest.executor": "Run",
+    "Application.Enum.executor": "Run",
+    "Application.Exercises.executor": "Run",
+    "Application.Exercises2.executor": "Run",
+    "Application.Filter.executor": "Run",
+    "Application.Functional.executor": "Run",
+    "Application.HelloRunnable.executor": "Run",
+    "Application.HelloThread.executor": "Run",
+    "Application.ListenerTest.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Map2.executor": "Run",
+    "Application.MapSample.executor": "Run",
+    "Application.PlatformThread.executor": "Run",
+    "Application.RunnableTest.executor": "Run",
+    "Application.SleepMessages.executor": "Run",
+    "Application.Static.executor": "Run",
+    "Application.Streams.executor": "Run",
+    "Application.Streams2.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.TestFlatMap.executor": "Run",
+    "Application.TestParallel.executor": "Run",
+    "Application.Tokens.executor": "Run",
+    "Application.UseStack.executor": "Run",
+    "Application.UseThing.executor": "Run",
+    "Application.UseThing2.executor": "Run",
+    "Application.VirtualThread.executor": "Run",
+    "Application.map2.MapSample.executor": "Run",
+    "Application.solutions.bstree2.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/generics" />
@@ -321,7 +303,7 @@
       <recent name="functional" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VirtualThread">
+  <component name="RunManager" selected="Application.Exercises">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -524,13 +506,13 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="HelloRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vthreads.HelloRunnable" />
+    <configuration name="Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solutions.Exercises" />
       <module name="TAP2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vthreads.*" />
+          <option name="PATTERN" value="solutions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -538,27 +520,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vthreads.HelloThread" />
+    <configuration name="Exercises2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solutions.Exercises2" />
       <module name="TAP2" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vthreads.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PlatformThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vthreads.PlatformThread" />
-      <module name="TAP2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="vthreads.*" />
+          <option name="PATTERN" value="solutions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -573,6 +541,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="vthreads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tokens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solutions.accounts.Tokens" />
+      <module name="TAP2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solutions.accounts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -623,19 +605,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HelloRunnable" />
-      <item itemvalue="Application.HelloThread" />
-      <item itemvalue="Application.PlatformThread" />
+      <item itemvalue="Application.Exercises" />
+      <item itemvalue="Application.Exercises2" />
+      <item itemvalue="Application.Tokens" />
       <item itemvalue="Application.SleepMessages" />
       <item itemvalue="Application.VirtualThread" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercises" />
+        <item itemvalue="Application.Exercises2" />
+        <item itemvalue="Application.Tokens" />
         <item itemvalue="Application.VirtualThread" />
         <item itemvalue="Application.SleepMessages" />
-        <item itemvalue="Application.PlatformThread" />
-        <item itemvalue="Application.HelloThread" />
-        <item itemvalue="Application.HelloRunnable" />
       </list>
     </recent_temporary>
   </component>
