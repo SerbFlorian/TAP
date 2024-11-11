@@ -6,7 +6,6 @@ package decorator;
  * Un coche puede ser decorado con características adicionales a través de clases decoradoras.
  */
 public class Car {
-
     // Descripción del coche, por ejemplo, el modelo o características.
     private String description;
 

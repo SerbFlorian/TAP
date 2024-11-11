@@ -6,7 +6,6 @@ package decorator;
  * a un coche, modificando su descripción y precio.
  */
 public class NitroDecorator extends Car {
-
     // Referencia al coche original que se está decorando
     private Car client;
 

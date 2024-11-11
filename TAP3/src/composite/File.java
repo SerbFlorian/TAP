@@ -6,7 +6,6 @@ package composite;
  * lo que le permite ser tratado de manera uniforme junto con otros componentes (como directorios).
  */
 public class File implements AComponent {
-
     private String name;  // Nombre del archivo
     private int size;     // Tamaño del archivo en unidades arbitarias
 

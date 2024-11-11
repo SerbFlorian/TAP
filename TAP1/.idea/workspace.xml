@@ -5,17 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fd9e165-2b19-442d-a347-b9b8261e181d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/mediator/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/mediator/ComponentA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/mediator/ComponentB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/mediator/ConcreteMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/mediator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/mediator/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/memento/Caretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/memento/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/memento/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/memento/Originator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TAP2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TAP3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/factory/SpanishCarFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/factory/SpanishCarFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/ComputerPartDisplayVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/ComputerPartDisplayVisitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Keyboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Keyboard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Monitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Monitor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Mouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/visitor2/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/factory/SpanishCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/factory/SpanishCarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/composite/Directory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/composite/Directory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/composite/File.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/composite/File.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/NitroDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/NitroDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/SpoilerDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/SpoilerDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/factoryAbstract/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/factoryAbstract/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/proxy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/proxy/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/src/adapter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/adapter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/src/composite/Directory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/composite/Directory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/src/composite/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/composite/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/src/decorator/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/decorator/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/src/decorator/NitroDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/decorator/NitroDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/src/decorator/SpoilerDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/decorator/SpoilerDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/src/iterator/IteratorPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/iterator/IteratorPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP3/src/proxy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/proxy/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -578,11 +595,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.ListSample" />
       <item itemvalue="Application.Test3" />
       <item itemvalue="Application.Test4" />
+      <item itemvalue="Application.Test" />
       <item itemvalue="Application.structures.Test2" />
-      <item itemvalue="Application.ListSample" />
     </list>
     <recent_temporary>
       <list>

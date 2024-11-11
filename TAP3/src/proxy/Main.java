@@ -17,7 +17,7 @@ package proxy;
 public class Main {
     // CONTRACTE -> IMAGE
     // ASSIGNACIO POLIMORFICA -> new ProxyImage(), ja que es on espero la classe pare i li assigno la filla
-    // DINAMIC BIDING -> .display(), ja que crida el de image i me permet fer POLIMORFISME D'HERENCIA
+    // DYNAMIC BIDING -> .display(), ja que crida el de image i me permet fer POLIMORFISME D'HERENCIA
 
     /**
      * Método principal donde se demuestra el uso del patrón Proxy para el manejo de imágenes.
@@ -31,7 +31,7 @@ public class Main {
 
         // La imagen será cargada desde el disco por primera vez
         image.display();
-        System.out.println("");
+        //System.out.println("");
 
         // La imagen NO será cargada desde el disco, ya que el proxy la carga solo una vez
         image.display();

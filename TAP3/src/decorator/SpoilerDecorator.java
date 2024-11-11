@@ -5,7 +5,6 @@ package decorator;
  * Agrega la característica de un spoiler al coche, modificando su descripción y precio.
  */
 public class SpoilerDecorator extends Car {
-
     // Referencia al coche original que se está decorando
     private Car client;
 

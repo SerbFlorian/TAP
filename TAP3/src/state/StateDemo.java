@@ -9,12 +9,12 @@ public class StateDemo {
 
     /**
      * Método principal que simula el ciclo de vida de un paquete utilizando el patrón State.
-     *
+     * <p>
      * En este ejemplo, un paquete pasa por tres estados secuenciales:
      * - Estado "Ordered" (Pedido)
      * - Estado "Delivered" (Entregado)
      * - Estado "Received" (Recibido)
-     *
+     * <p>
      * El método simula el cambio de estado del paquete y muestra el estado de cada uno de estos cambios.
      *
      * @param args Argumentos de la línea de comandos (no utilizados en este caso).

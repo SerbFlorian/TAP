@@ -9,7 +9,6 @@ import java.util.List;
  * para que pueda ser tratado de manera uniforme con otros componentes.
  */
 public class Directory implements AComponent {
-
     private String name;  // Nombre del directorio
     private List<AComponent> children;  // Lista de componentes hijos del directorio
 

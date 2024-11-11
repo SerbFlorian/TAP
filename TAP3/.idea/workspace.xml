@@ -5,18 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="024cd87f-eb98-4d9d-8a09-9b114020ffe4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/mediator/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/ComponentA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/ComponentB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/ConcreteMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mediator/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memento/Caretaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memento/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memento/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memento/Originator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TAP2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/solutions/accounts/Tokens.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/solutions/accounts/Tokens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/AbstractCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/AbstractCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/AbstractCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/AbstractCarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/AbstractEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/AbstractEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/SpanishCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/SpanishCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/SpanishCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/SpanishCarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/SpanishEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/SpanishEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/UKCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/UKCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/UKCarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/UKCarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/UKEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/UKEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/composite/Directory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/composite/Directory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/composite/File.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/composite/File.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/decorator/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/decorator/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/decorator/NitroDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/decorator/NitroDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/decorator/SpoilerDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/decorator/SpoilerDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/factoryAbstract/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/factoryAbstract/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP3/proxy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP3/proxy/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/adapter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/adapter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/composite/Directory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/composite/Directory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/composite/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/composite/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decorator/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/decorator/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decorator/NitroDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/decorator/NitroDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decorator/SpoilerDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/decorator/SpoilerDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iterator/IteratorPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iterator/IteratorPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/proxy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/proxy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/state/StateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/StateDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,35 +283,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.IteratorPatternDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SQLTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StateDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.adapter.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.composite.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.decorator.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.factory.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.proxy.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.singleton.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solutions.filesystem2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solutions.observer.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.solutions.visitor.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.template.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.visitor.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Florian/Desktop/GEI_4t/1r_Quad/4_TAP/TAP_Practicar/TAPBoo/TAP3/src/abstractFactory&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.IteratorPatternDemo.executor": "Run",
+    "Application.Main (4).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.SQLTest.executor": "Run",
+    "Application.StateDemo.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.adapter.Main.executor": "Run",
+    "Application.composite.Main.executor": "Run",
+    "Application.decorator.Main.executor": "Run",
+    "Application.factory.Main.executor": "Run",
+    "Application.memento.Main.executor": "Run",
+    "Application.proxy.Main.executor": "Run",
+    "Application.singleton.Main.executor": "Run",
+    "Application.solutions.filesystem2.Main.executor": "Run",
+    "Application.solutions.observer.Main.executor": "Run",
+    "Application.solutions.visitor.Main.executor": "Run",
+    "Application.strategy.Main.executor": "Run",
+    "Application.template.Main.executor": "Run",
+    "Application.visitor.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Florian/Desktop/GEI_4t/1r_Quad/4_TAP/TAP_Practicar/TAPBoo/TAP3/src/abstractFactory",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Florian\Desktop\GEI_4t\1r_Quad\4_TAP\TAP_Practicar\TAPBoo\TAP3\src\abstractFactory" />
@@ -308,7 +329,7 @@
       <recent name="abstractFactory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.visitor.Main">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -517,13 +538,13 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="IteratorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="iterator.IteratorPatternDemo" />
+    <configuration name="StateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="state.StateDemo" />
       <module name="TAP3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="iterator.*" />
+          <option name="PATTERN" value="state.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -531,27 +552,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factoryAbstract.Main" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="observer.Test" />
       <module name="TAP3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="factoryAbstract.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SQLTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factory2.SQLTest" />
-      <module name="TAP3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="factory2.*" />
+          <option name="PATTERN" value="observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -565,13 +572,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="factory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factory.Main" />
+    <configuration name="memento.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="memento.Main" />
       <module name="TAP3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="factory.*" />
+          <option name="PATTERN" value="memento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -579,13 +586,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="singleton.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="singleton.Main" />
+    <configuration name="strategy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strategy.Main" />
       <module name="TAP3" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="singleton.*" />
+          <option name="PATTERN" value="strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="visitor.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="visitor.Main" />
+      <module name="TAP3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="visitor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -616,19 +637,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.singleton.Main" />
-      <item itemvalue="Application.IteratorPatternDemo" />
-      <item itemvalue="Application.SQLTest" />
-      <item itemvalue="Application.factory.Main" />
+      <item itemvalue="Application.StateDemo" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.memento.Main" />
+      <item itemvalue="Application.strategy.Main" />
+      <item itemvalue="Application.visitor.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.singleton.Main" />
-        <item itemvalue="Application.SQLTest" />
-        <item itemvalue="Application.factory.Main" />
-        <item itemvalue="Application.IteratorPatternDemo" />
+        <item itemvalue="Application.visitor.Main" />
+        <item itemvalue="Application.strategy.Main" />
+        <item itemvalue="Application.StateDemo" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.memento.Main" />
       </list>
     </recent_temporary>
   </component>

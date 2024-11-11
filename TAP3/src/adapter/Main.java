@@ -5,7 +5,7 @@ package adapter;
  * que convierte la interfaz del encendedor de coche a un puerto USB.
  */
 public class Main {
-    // **Contracte**: USB es SEMPRE el PARE, del qual extendeixen els demes
+    // **Contracte**: USB es SEMPRE el PARE, del qual extendeixen UsbToCarAdapter()
     // **Assignacio Polimorfica**: new UsbToCarAdapter(carLighter)
     // **Dynamic Binding**: classe MP3Player, linea 33 -> .getPower()
     /**

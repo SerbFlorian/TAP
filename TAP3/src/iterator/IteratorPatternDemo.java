@@ -11,7 +11,7 @@ package iterator;
  * <p>
  * Ejemplo de conceptos clave:
  * <ul>
- *   <li>Contrato (Contract): La interfaz *{@link Iterator}, {@link Container}* define el contrato de los
+ *   <li>Contrato (Contract): La interfaz *{@link Container}* define el contrato de los
  *   métodos que deben implementarse.</li>
  *   <li>Asignación Polimórfica: iter = namesRepository.getIterator()`.</li>
  *   <li>Dynamic Binding: La llamada al método `.next()` del iterador se resuelve en tiempo de ejecución.</li>
