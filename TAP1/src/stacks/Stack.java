@@ -6,7 +6,6 @@ package stacks;
  * y verificar el estado de la pila.
  */
 interface Stack {
-
     /**
      * Introduce un elemento en la parte superior de la pila.
      *

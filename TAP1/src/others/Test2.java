@@ -6,7 +6,6 @@ import java.io.*;
  * Clase de ejemplo para demostrar la serialización y deserialización de un objeto en Java.
  */
 public class Test2 {
-
     /**
      * <strong>Serializable permite que el objeto pueda ser convertido en una secuencia de bytes, que pueda ser almacenada en un archivo,
      * transmitida a través de la red o almacenada en una base de datos. La serialización es el proceso de convertir un objeto

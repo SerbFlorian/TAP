@@ -9,7 +9,6 @@ import java.util.List;
  * Se crean tres instancias de la clase `Person` y se añaden a una lista. Luego, se imprime cada persona en la lista.
  */
 public class ListSample {
-
     /**
      * Punto de entrada principal del programa.
      * <p>

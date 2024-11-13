@@ -8,7 +8,6 @@ import java.io.*;
  * DataInputStream para leerlos.
  */
 public class IO1 {
-
     /**
      * Método principal que demuestra el uso de FileOutputStream, PrintStream,
      * FileInputStream y DataInputStream para escribir y leer datos de un archivo.
@@ -17,7 +16,6 @@ public class IO1 {
      * @throws IOException Si ocurre un error de entrada/salida al manipular los archivos.
      */
     public static void main(String[] args) throws IOException {
-
         // Crear un FileOutputStream para escribir en el archivo "pedro.txt"
         FileOutputStream fos = new FileOutputStream("pedro.txt");
 

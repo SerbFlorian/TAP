@@ -12,7 +12,6 @@ package bank;
  * @since 9/14/15
  */
 public class BonusAccount extends Account {
-
     /**
      * Constructor de la clase BonusAccount.
      * <p>

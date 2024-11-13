@@ -10,7 +10,6 @@ import java.util.List;
  * La clase ordena una lista de objetos `Client` primero por nombre y luego por edad.
  */
 public class Test3 {
-
     /**
      * Método que imprime el contenido de una colección de objetos `Client`.
      *

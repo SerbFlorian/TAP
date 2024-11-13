@@ -9,7 +9,6 @@ import java.util.StringTokenizer;
  * y los divide utilizando el delimitador coma (',').
  */
 public class Tokens {
-
     /**
      * Punto de entrada principal de la clase. Lee el archivo "accounts.txt" línea por línea,
      * separa cada línea en tokens utilizando una coma como delimitador y los imprime en consola.
@@ -18,7 +17,6 @@ public class Tokens {
      * @throws IOException Si ocurre un error al leer el archivo.
      */
     public static void main(String[] args) throws IOException {
-
         // Abrir el archivo "accounts.txt" para lectura
         FileReader fis = new FileReader("accounts.txt");
         BufferedReader dis = new BufferedReader(fis);
@@ -37,7 +35,6 @@ public class Tokens {
                 System.out.println(tokens.nextToken());
             }
         }
-
         // Cerrar el flujo de entrada una vez que se ha procesado todo el archivo
         dis.close();
     }

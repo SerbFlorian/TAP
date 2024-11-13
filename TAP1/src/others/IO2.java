@@ -7,7 +7,6 @@ import java.io.*;
  * FileReader y BufferedReader.
  */
 public class IO2 {
-
     /**
      * Método principal que demuestra el uso de FileWriter, PrintWriter, FileReader y BufferedReader
      * para escribir y leer datos desde un archivo de texto.
@@ -16,7 +15,6 @@ public class IO2 {
      * @throws IOException Si ocurre un error de entrada/salida al manipular los archivos.
      */
     public static void main(String[] args) throws IOException {
-
         // Crear un FileWriter para escribir en el archivo "pedro.txt"
         FileWriter fos = new FileWriter("pedro.txt");
 

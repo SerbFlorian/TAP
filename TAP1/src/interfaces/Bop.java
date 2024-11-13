@@ -9,7 +9,6 @@ package interfaces;
  * Created by pedro on 9/9/15.
  */
 interface Bop {
-
     /**
      * Método que debe ser implementado por cualquier clase que implemente la interfaz `Bop`.
      * Este método representa la acción de bailar, y cada clase debe definir cómo lo hace.

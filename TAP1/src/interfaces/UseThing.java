@@ -9,7 +9,6 @@ package interfaces;
  * Created by pedro on 9/9/15.
  */
 public class UseThing {
-
     /**
      * El método principal (`main`) crea un objeto de la clase `Thing` y lo utiliza para llamar a los métodos
      * `sing` y `dance` tanto directamente como a través de referencias a las interfaces `Musician` y `Bop`.

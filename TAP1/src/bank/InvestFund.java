@@ -14,7 +14,6 @@ package bank;
  * @since 9/14/15
  */
 public class InvestFund extends Account {
-
     /**
      * Cantidad asociada al fondo de inversión.
      */

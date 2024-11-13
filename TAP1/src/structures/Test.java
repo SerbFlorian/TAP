@@ -7,7 +7,6 @@ import java.util.*;
  * Se crean y prueban varias colecciones: `ArrayList`, `LinkedList`, `HashSet` y `TreeSet`.
  */
 public class Test {
-
     /**
      * Método de entrada del programa.
      * Se crean varias colecciones de tipo `String` y se prueban utilizando el método `test`.
@@ -26,10 +25,12 @@ public class Test {
         test(c);
 
         // Probamos con un HashSet (sin orden específico)
+        // Nota: HashSet no permite elementos duplicados
         c = new HashSet<String>();
         test(c);
 
         // Probamos con un TreeSet (que ordena los elementos)
+        // Nota: TreeSet no permite elementos duplicados
         c = new TreeSet<String>();
         test(c);
     }
@@ -40,7 +41,6 @@ public class Test {
      * @param c La colección en la que se van a agregar los elementos. Puede ser de cualquier tipo que implemente `Collection`.
      */
     public static void test(Collection<String> c) {
-
         // Array de cadenas de texto a agregar a la colección
         String strings[] = {"uno", "dos", "tres", "cuatro", "tres"};
 

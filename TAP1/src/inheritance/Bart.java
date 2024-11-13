@@ -8,7 +8,6 @@ package inheritance;
  * Created by pedro on 9/9/15.
  */
 public class Bart extends Talkative {
-
     /**
      * Método sobrescrito de la clase `Talkative`.
      * Este método devuelve un mensaje específico de la clase `Bart`.

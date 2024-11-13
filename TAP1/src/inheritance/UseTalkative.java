@@ -9,7 +9,6 @@ package inheritance;
  * Created by pedro on 9/9/15.
  */
 public class UseTalkative {
-
     /**
      * Método principal que crea instancias de las clases `Homer` y `Bart`, las agrega
      * a un array de `Talkative` y luego imprime el resultado de llamar al método `talk`

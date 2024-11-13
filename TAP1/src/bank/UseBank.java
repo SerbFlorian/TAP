@@ -15,7 +15,6 @@ package bank;
  * @since 9/14/15
  */
 public class UseBank {
-
     /**
      * Método principal que ejecuta el programa de prueba.
      * <p>

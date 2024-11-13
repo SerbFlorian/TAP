@@ -7,7 +7,6 @@ import java.io.Serializable;
  * Implementa la interfaz Serializable para permitir la serialización de sus instancias.
  */
 public class Person implements Serializable {
-
     // Atributos de la clase Person
     String name;  // Nombre de la persona
     int age;      // Edad de la persona

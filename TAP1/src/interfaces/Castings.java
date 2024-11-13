@@ -4,11 +4,10 @@ package interfaces;
  * La clase `Castings` demuestra el uso de *casting* en Java, donde objetos de tipo `Object`
  * se convierten en tipos más específicos mediante el uso de *casting explícito*.
  * La clase también muestra cómo se puede hacer un casting entre interfaces y clases.
- *
+ * <p>
  * Created by pedro on 9/9/15.
  */
 public class Castings {
-
     /**
      * Método principal donde se realiza el casting explícito de objetos a tipos específicos
      * y se invocan métodos asociados a esos tipos.
@@ -16,7 +15,6 @@ public class Castings {
      * @param args Argumentos de la línea de comandos (no utilizados en este caso).
      */
     public static void main(String[] args) {
-
         // Se crea un objeto de la clase Thing y se asigna a una variable de tipo Object
         Object o1 = new Thing();
 

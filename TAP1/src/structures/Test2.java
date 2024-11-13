@@ -11,7 +11,6 @@ import java.util.List;
  * buscar elementos mediante búsqueda binaria y mostrar el contenido.
  */
 public class Test2 {
-
     /**
      * Método principal de la clase.
      * Crea una lista de cadenas, agrega elementos, los ordena y realiza una búsqueda binaria.
@@ -33,6 +32,7 @@ public class Test2 {
         print(c);
 
         // Se ordenan los elementos de la lista
+        // Ordena de forma ascendente por defecto
         Collections.sort(c);
 
         // Se imprime el contenido de la lista después de ordenarla

@@ -10,7 +10,6 @@ import java.util.Set;
  * Se accede a los elementos del mapa mediante claves, y se muestra cómo recorrer el mapa y sus valores.
  */
 public class Test4 {
-
     /**
      * Método principal de la clase.
      * Crea un `Map` con claves tipo `String` y valores tipo `Client`.
@@ -37,6 +36,7 @@ public class Test4 {
         // Obtener un cliente por su clave ("dni2") y mostrar su nombre
         Client p = dict.get("dni2");
         System.out.println(p.getName());
+        System.out.println("-------------------------");
 
         // Recorrer el conjunto de claves del mapa y obtener los valores (clientes)
         Set<String> keys = dict.keySet();

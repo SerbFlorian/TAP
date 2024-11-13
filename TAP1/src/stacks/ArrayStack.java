@@ -4,12 +4,10 @@ package stacks;
  * Implementación de una pila (stack) utilizando un arreglo (array).
  * Esta clase implementa la interfaz {@link Stack} y proporciona métodos
  * para apilar (push), desapilar (pop), y verificar el estado de la pila.
- *
+ * <p>
  * ArrayStack tiene un tamaño fijo y no puede redimensionarse.
  */
-
 public class ArrayStack implements Stack {
-
     private int[] pile;  // Arreglo que almacena los elementos de la pila.
     private int top;     // Indica la posición del último elemento apilado.
 

@@ -4,11 +4,10 @@ package exception;
  * Esta clase contiene el método `main` que ejecuta el programa y prueba la funcionalidad
  * de la clase `TapCourse`. El propósito es verificar si el estudiante ha aprobado el curso
  * o si se lanza una excepción `TAPException` en caso de que no haya estudiado.
- *
+ * <p>
  * Created by pedro on 9/9/15.
  */
 public class TAPMain {
-
     /**
      * Si el estudiante no ha estudiado, se lanza una excepción que es capturada
      * y se imprime el mensaje de error.

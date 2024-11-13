@@ -12,7 +12,6 @@ package cars;
  * @since 9/14/15
  */
 public class Car {
-
     private String brand; // Marca del coche
     private int price;    // Precio del coche
 
@@ -55,9 +54,8 @@ public class Car {
      * @return `true` si los coches tienen la misma marca y precio, `false` en caso contrario.
      */
     public boolean equals(Car car2) {
-        Car other = car2;
-        return (other.getPrice() == this.price)
-                && (other.getBrand().equals(this.brand));
+        return (car2.getPrice() == this.price)
+                && (car2.getBrand().equals(this.brand));
     }
 
     /**

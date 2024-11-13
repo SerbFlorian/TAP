@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b6a419e-c707-43ab-a992-18d0d09502ac" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/Exercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5b6a419e-c707-43ab-a992-18d0d09502ac" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

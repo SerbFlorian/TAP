@@ -9,7 +9,6 @@ package inheritance;
  * Created by pedro on 9/9/15.
  */
 abstract class Talkative {
-
     /**
      * Método abstracto `talk` que debe ser implementado por las clases que extienden `Talkative`.
      * Este método devuelve un mensaje, pero cada clase hija puede definir el mensaje que desea.

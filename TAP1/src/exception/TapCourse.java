@@ -4,11 +4,10 @@ package exception;
  * Esta clase representa un curso donde se determina si un estudiante ha aprobado o no.
  * El método `passCourse` verifica si el estudiante ha estudiado lo suficiente
  * para aprobar el curso. Si no ha estudiado, lanza una excepción personalizada `TAPException`.
- *
+ * <p>
  * Created by pedro on 9/9/15.
  */
 public class TapCourse {
-
     /**
      * Este método determina si el estudiante aprueba el curso o no,
      * según si ha estudiado o no.
@@ -21,7 +20,7 @@ public class TapCourse {
      * @return Un mensaje indicando si el estudiante ha aprobado o no el curso.
      * @throws TAPException Si el estudiante no ha estudiado, se lanza una excepción personalizada.
      */
-    public static String passCourse(boolean hasStudied) throws TAPException{
+    public static String passCourse(boolean hasStudied) throws TAPException {
         // Verificamos si el estudiante ha estudiado
         if (hasStudied) {
             // Si ha estudiado, devuelve el mensaje de éxito
@@ -31,5 +30,4 @@ public class TapCourse {
             throw new TAPException("You failed, better study next time");
         }
     }
-
 }

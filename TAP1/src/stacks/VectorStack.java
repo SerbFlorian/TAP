@@ -5,11 +5,10 @@ import java.util.Vector;
 /**
  * Implementación de una pila (stack) utilizando la clase Vector de Java.
  * Esta clase permite apilar (push), desapilar (pop) y verificar el estado de la pila.
- *
+ * <p>
  * VectorStack permite redimensionar automáticamente el tamaño del Vector si se excede
  */
 public class VectorStack implements Stack {
-
     private Vector<Integer> pile;  // Vector que almacena los elementos de la pila
     private int size;  // Tamaño máximo de la pila
     private int cnt;   // Contador que lleva la cuenta de los elementos apilados

@@ -46,7 +46,7 @@ public class UseCar {
         System.out.println("Peugeot " + peugeot);  // (mercedes,900)
 
         // Crear un nuevo coche audi
-        Car audi = new Car("audi", 900);  // Coche de marca "audi" y precio 900
+        Car audi = new Car("audi", 300);  // Coche de marca "audi" y precio 900
         renault = audi.clone();  // Clonar el coche audi a renault
         renault.setBrand("ferrari");  // Cambiar la marca de renault a "ferrari"
 

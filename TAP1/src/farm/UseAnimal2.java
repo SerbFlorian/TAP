@@ -12,7 +12,6 @@ import java.util.LinkedList;
  * Created by pedro on 9/9/15.
  */
 public class UseAnimal2 {
-
     /**
      * El método principal que ejecuta el código. Crea instancias de las clases `Animal`, `Cat`,
      * y `MutantParrot`, las almacena en una lista estática y una dinámica, y muestra los mensajes
@@ -21,7 +20,6 @@ public class UseAnimal2 {
      * @param args Los argumentos de la línea de comandos (no utilizados en este caso).
      */
     public static void main(String[] args) {
-
         // Creación de instancias de diferentes animales
         Animal a = new Animal(3, 3);
         Cat g = new Cat(1, 2);
@@ -43,7 +41,7 @@ public class UseAnimal2 {
         lorry.add(a);  // Agrega el Animal
         lorry.add(g);  // Agrega el Cat
         lorry.add(lM); // Agrega el MutantParrot
-
+        System.out.println("-----------------");
         // Iteramos sobre la lista dinámica y mostramos los resultados del método `talk` de cada animal
         for (Animal o : lorry) {
             System.out.println(o.talk());  // Llama a `talk()` de cada animal en la lista

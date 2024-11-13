@@ -10,7 +10,6 @@ package farm;
  * Created by pedro on 9/9/15.
  */
 public class Animal {
-
     // El atributo 'legs' es protegido para que las clases hijas puedan acceder y modificarlo directamente.
     protected int legs;
 
