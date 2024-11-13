@@ -11,7 +11,6 @@ import java.util.function.Function;
  * @author pedro
  */
 public class Map2 {
-
     /**
      * Aplica una función a cada elemento de una lista y devuelve una nueva lista con los resultados.
      *

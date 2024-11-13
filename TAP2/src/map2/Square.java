@@ -5,7 +5,6 @@ package map2;
  * mediante la operación de elevarlo al cuadrado.
  */
 public class Square implements Imap<Integer> {
-
     /**
      * Aplica la operación de elevar al cuadrado el valor proporcionado.
      *

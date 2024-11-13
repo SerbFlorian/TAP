@@ -12,7 +12,6 @@ import java.util.Iterator;
  * @author Pedro García
  */
 public class Test {
-
     /**
      * Método principal que crea una colección de tipo String y realiza pruebas
      * utilizando los métodos `test`, `test2`, y `test3` para iterar sobre la colección.
@@ -45,12 +44,10 @@ public class Test {
      * @param <T> Tipo genérico
      */
     public static <T> void test(Collection<T> c) {
-
         // Itera sobre la colección y muestra cada elemento
         for (T elem : c) {
             System.out.println(elem);
         }
-
         System.out.println("-------------------------");
     }
 

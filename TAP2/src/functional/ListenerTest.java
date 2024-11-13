@@ -12,7 +12,6 @@ import java.awt.event.ActionListener;
  * @author MikeW
  */
 public class ListenerTest {
-
     /**
      * Método principal que inicializa la interfaz gráfica de usuario (GUI).
      * Crea un botón con dos listeners, uno usando una clase anónima y otro usando una expresión lambda.
@@ -20,7 +19,6 @@ public class ListenerTest {
      * @param args Los argumentos de la línea de comandos (no se utilizan en este caso).
      */
     public static void main(String[] args) {
-
         // Se crea un botón con el texto "Test Button"
         JButton testButton = new JButton("Test Button");
 

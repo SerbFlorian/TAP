@@ -24,7 +24,6 @@ import java.util.function.Predicate;
  * @author milax
  */
 public class Filter {
-
     /**
      * Filtra los elementos de una lista en función de un predicado.
      * <p>
@@ -63,7 +62,6 @@ public class Filter {
 
         // Filtra las cadenas que empiezan con "p"
         List<String> result = Filter.filter(elems, (String p) -> p.startsWith("p"));
-
         // Imprime el resultado filtrado
         for (String elem : result)
             System.out.println(elem);

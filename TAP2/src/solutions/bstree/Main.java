@@ -5,7 +5,6 @@ package solutions.bstree;
  * Se insertan varios elementos en el árbol y se verifican si ciertos valores están presentes.
  */
 public class Main {
-
     /**
      * Método principal que ejecuta las operaciones de inserción y búsqueda en el árbol.
      *

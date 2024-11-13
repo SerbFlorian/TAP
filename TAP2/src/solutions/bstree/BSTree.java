@@ -13,7 +13,6 @@ import java.util.List;
  * @param <T> el tipo de los elementos almacenados en el árbol
  */
 public class BSTree<T> implements Iterable<T> {
-
     private T data; // Dato almacenado en el nodo actual
     private BSTree<T> left; // Hijo izquierdo del nodo
     private BSTree<T> right; // Hijo derecho del nodo

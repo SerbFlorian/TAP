@@ -9,7 +9,6 @@ package functional;
  */
 public class RunnableTest {
     public static void main(String[] args) {
-
         // Imprime un mensaje de inicio en la consola
         System.out.println("=== RunnableTest ===");
 

@@ -11,7 +11,6 @@ import java.util.List;
  * se resuelve de manera dinámica en tiempo de ejecución
  */
 public class MapSample {
-
     public static void main(String[] args) {
         // Lista de enteros
         List<Integer> list = Arrays.asList(1, 3, 5, 7, 9);

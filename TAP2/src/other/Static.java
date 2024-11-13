@@ -12,7 +12,6 @@ import static java.lang.Math.*;
  * Created by pedro on 9/9/15.
  */
 public class Static {
-
     public static void main(String[] args) {
         // Uso de out directamente para imprimir (gracias a la importación estática de System.out)
         out.println("pedro" + sqrt(9)); // Imprime "pedro3.0" donde 3.0 es el resultado de sqrt(9)

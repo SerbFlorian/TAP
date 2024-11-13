@@ -10,7 +10,6 @@ import java.util.Iterator;
  * @param <T> Tipo de los elementos almacenados en la pila.
  */
 public class ArrayStack<T> implements Stack<T>, Iterator<T> {
-
     private T[] monton;  // Arreglo que almacena los elementos de la pila.
     private int cima;    // Índice de la cima de la pila (donde se encuentra el siguiente elemento a insertar o eliminar).
 

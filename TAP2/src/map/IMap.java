@@ -8,7 +8,6 @@ package map;
  * @author Pedro García
  */
 interface IMap {
-
     /**
      * Aplica una operación sobre el elemento proporcionado.
      *

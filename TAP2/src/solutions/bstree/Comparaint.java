@@ -7,7 +7,6 @@ import java.util.Comparator;
  * Esta clase proporciona una forma de comparar dos números enteros de forma personalizada.
  */
 public class Comparaint implements Comparator<Integer> {
-
     /**
      * Compara dos números enteros.
      * Si el primer número es menor o igual al segundo, devuelve -1 (lo que indica que el primer número es "menor").

@@ -8,7 +8,6 @@ package map;
  * @author Pedro García
  */
 public class Map {
-
     /**
      * Aplica una función a cada elemento de un arreglo de enteros.
      * El método recibe un arreglo de enteros y una instancia de una clase que implementa la interfaz IMap.

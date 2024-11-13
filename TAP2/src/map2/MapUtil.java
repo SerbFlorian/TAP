@@ -8,7 +8,6 @@ import java.util.List;
  * El método map recorre la lista original y aplica una función de transformación a cada elemento.
  */
 public class MapUtil {
-
     /**
      * Aplica una función de transformación a cada elemento de la lista y devuelve una nueva lista con los resultados.
      *

@@ -12,7 +12,6 @@ import java.util.List;
  * @param <T> Tipo de los elementos almacenados en el árbol, que debe implementar la interfaz Comparable.
  */
 public class BSTree<T extends Comparable<T>> implements Iterable<T> {
-
     // Atributos del árbol
     T data;  // Dato almacenado en el nodo
     BSTree<T> left;  // Subárbol izquierdo

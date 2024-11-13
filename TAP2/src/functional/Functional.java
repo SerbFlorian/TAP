@@ -18,7 +18,6 @@ import java.util.function.Predicate;
  * @author pedro
  */
 public class Functional {
-
     /**
      * Método principal que demuestra el uso de interfaces funcionales.
      * <p>
@@ -29,7 +28,6 @@ public class Functional {
      * @param args argumentos de línea de comandos (no utilizados)
      */
     public static void main(String args[]) {
-
         // Consumer: Acepta un solo parámetro y realiza una acción con él.
         // Integer: Es una clase que envuelve un valor primitivo int y lo convierte en un objeto.
         Consumer<Integer> c = (Integer x) -> {

@@ -23,7 +23,6 @@ public class UseStack {
 	// 3. ArrayStack implementa la interfaz Iterator<T> y proporciona sus propios metodos next() y hasNext()
 	// 3. VectorStack utiliza un iterator proporcianado por el Vector interno
 	public static void main(String[] args) {
-
 		// Declaración de la pila como una referencia de tipo Stack<Integer>.
 		Stack<Integer> pila;
 

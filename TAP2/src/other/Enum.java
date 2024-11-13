@@ -7,7 +7,6 @@ import java.util.Arrays;
  * Permite mostrar el uso de un enum en un switch y listar sus valores.
  */
 public class Enum {
-
     // Definición del enum para representar las estaciones del año
     enum Season {WINTER, SPRING, SUMMER, FALL}
 

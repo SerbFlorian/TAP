@@ -9,7 +9,6 @@ package defaultmethods;
  * Creado por Pedro el 26/10/14.
  */
 interface ICorrupt {
-
     /**
      * Método por defecto que imprime un mensaje simulando el uso de dinero
      * de manera irresponsable con una "tarjeta negra".
@@ -18,7 +17,6 @@ interface ICorrupt {
     default void blackCard() {
         System.out.println("spending money ...");
     }
-
     /**
      * Método estático que simula el comportamiento de gastar de forma descontrolada.
      * <p>Este método imprime un mensaje con actividades de alto gasto y está disponible

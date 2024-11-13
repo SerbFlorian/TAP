@@ -4,7 +4,6 @@ package map2;
  * Clase que implementa la interfaz Imap para convertir un String a mayúsculas.
  */
 public class Capitals implements Imap<String> {
-
     /**
      * Convierte el valor de un String a mayúsculas.
      *

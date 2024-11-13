@@ -12,7 +12,6 @@ import java.util.List;
  * @author pedro
  */
 public class Test {
-
     public static void main(String args[]) {
         // Crear una lista vacía de objetos Animal
         List<Animal> list = new LinkedList<Animal>();
@@ -31,6 +30,7 @@ public class Test {
         list.forEach(elem -> elem.talk());
 
         // Usar `forEach` con una referencia a método para imprimir los animales
+        // los :: son una referencia a metodo, en este caso a la funcion toString
         list.forEach(System.out::println);
 
         /* El bloque comentado abajo es una forma alternativa de iterar

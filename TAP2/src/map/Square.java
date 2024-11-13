@@ -4,7 +4,6 @@ package map;
  * Clase que implementa la interfaz IMap para elevar un número al cuadrado.
  */
 public class Square implements IMap {
-
     /**
      * Eleva al cuadrado el valor de un número.
      *

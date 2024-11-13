@@ -9,7 +9,6 @@ import static java.lang.System.out;
  * @author Pedro García
  */
 class UseThing {
-
     /**
      * Método principal que crea una instancia de `Thing` con un tipo específico
      * y muestra cómo se obtiene y se manipula el valor almacenado.
@@ -17,7 +16,6 @@ class UseThing {
      * @param args Los argumentos de la línea de comandos, no utilizados en este caso.
      */
     public static void main(String args[]) {
-
         // Se crea una instancia de `Thing` con tipo genérico `String` y se inicializa con el valor "pedro".
         Thing<String> cosa = new Thing<String>("pedro");
 

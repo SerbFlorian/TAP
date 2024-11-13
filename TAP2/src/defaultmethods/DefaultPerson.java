@@ -8,7 +8,6 @@ package defaultmethods;
  * Creado por Pedro el 26/10/14.
  */
 public class DefaultPerson implements IPerson {
-
     /**
      * Muestra un saludo en la consola.
      * <p>Este método sobreescribe el método {@code sayHello()} de la interfaz {@link IPerson}

@@ -12,7 +12,6 @@ package patternmatching;
  * @see Message
  */
 public class InsultMessage extends Message {
-
     /**
      * Constructor de `InsultMessage`, inicializa el mensaje con el remitente
      * y el cuerpo del mensaje.

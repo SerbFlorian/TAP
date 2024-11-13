@@ -7,7 +7,6 @@ package map;
  * @author Pedro García
  */
 public class MapUtil {
-
     /**
      * Aplica una operación a cada elemento de un arreglo de enteros.
      * Utiliza una instancia de la interfaz IMap para realizar la operación en cada elemento.

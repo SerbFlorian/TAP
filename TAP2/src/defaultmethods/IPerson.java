@@ -13,7 +13,6 @@ package defaultmethods;
  * Creado por Pedro el 26/10/14.
  */
 interface IPerson {
-
     /**
      * Método abstracto para que la persona diga "Hola".
      * Este método debe ser implementado por todas las clases que

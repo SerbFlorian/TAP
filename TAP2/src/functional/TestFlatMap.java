@@ -9,7 +9,6 @@ import java.util.stream.Collectors;
  * Este ejemplo demuestra cómo usar flatMap para extraer elementos de colecciones dentro de colecciones.
  */
 public class TestFlatMap {
-
     public static void main(String args[]) {
         // Crear una lista de desarrolladores
         List<Developer> team = new ArrayList<>();

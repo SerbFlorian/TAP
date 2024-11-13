@@ -7,7 +7,6 @@ package generics;
  * @author Pedro García
  */
 public class UseThing2 {
-
     /**
      * Método principal que muestra cómo se utiliza la clase genérica `Thing2`
      * con un tipo restringido (`Cat`, que es una subclase de `Animal`).
@@ -15,7 +14,6 @@ public class UseThing2 {
      * @param args Los argumentos de la línea de comandos, no utilizados en este caso.
      */
     public static void main(String[] args) {
-
         // Se crea una instancia de `Cat`, que es una subclase de `Animal`.
         Cat g = new Cat(1, 2);
 

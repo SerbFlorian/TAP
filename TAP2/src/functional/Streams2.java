@@ -19,9 +19,7 @@ import java.util.stream.Collectors;
  * @author MikeW
  */
 public class Streams2 {
-
     public static void main(String args[]) {
-
         // Crear una lista de animales
         List<Animal> people = new LinkedList<Animal>();
 

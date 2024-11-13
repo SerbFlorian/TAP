@@ -8,7 +8,6 @@ package defaultmethods;
  * Creado por Pedro el 26/10/14.
  */
 public class DefaultTest {
-
     /**
      * Método principal que inicia el programa.
      * <p>Crea una instancia de {@link DefaultPerson}, llama a {@code sayHello()}
@@ -22,5 +21,4 @@ public class DefaultTest {
         p.sayHello(); // Llamar al método sayHello() de la instancia
         p.blackCard(); // Llamar al método por defecto blackCard() de la interfaz IPerson
     }
-
 }

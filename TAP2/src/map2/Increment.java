@@ -5,7 +5,6 @@ package map2;
  * Esta clase aplica una transformación que suma 1 al valor recibido.
  */
 public class Increment implements Imap<Integer> {
-
     /**
      * Aplica la transformación de incrementar el valor recibido en 1.
      *

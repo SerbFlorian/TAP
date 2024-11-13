@@ -4,7 +4,6 @@ package solutions.bstree2;
  * Clase principal que contiene el método main para probar la funcionalidad del árbol binario de búsqueda (BSTree).
  */
 public class Main {
-
     /**
      * Método principal que crea un árbol binario de búsqueda, inserta algunos elementos,
      * realiza búsquedas y recorre el árbol.

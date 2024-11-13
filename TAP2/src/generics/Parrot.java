@@ -8,7 +8,6 @@ package generics;
  * @author Pedro Garcia
  */
 public class Parrot extends Animal {
-
     /**
      * Constructor de la clase Parrot.
      * Llama al constructor de la clase padre (Animal) para inicializar las propiedades

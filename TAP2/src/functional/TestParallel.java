@@ -8,7 +8,6 @@ import java.util.stream.IntStream;
  * y mide el tiempo transcurrido en la ejecución de cada operación.
  */
 public class TestParallel {
-
     public static void main(String[] args) {
         // Guardar el tiempo de inicio para medir la duración de las operaciones
         long start = System.currentTimeMillis();
@@ -28,11 +27,9 @@ public class TestParallel {
             } catch (Exception ignore) {
                 // Ignorar excepciones por simplificación
             }
-
             // Imprimir el tiempo transcurrido desde el inicio de la ejecución
             System.out.print((System.currentTimeMillis() - start) + " ");
         });
-
         // Nota: La salida será desordenada debido a la concurrencia de los hilos.
     }
 }

@@ -6,7 +6,6 @@ package patternmatching;
  * de mensajes, como `InsultMessage`.
  */
 public class Message {
-
     // Remitente del mensaje
     private String from;
 

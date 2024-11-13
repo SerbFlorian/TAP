@@ -6,7 +6,6 @@ package patternmatching;
  * heredando el remitente y el contenido del mensaje.
  */
 public class QuitMessage extends Message {
-
     /**
      * Constructor de la clase `QuitMessage`.
      *

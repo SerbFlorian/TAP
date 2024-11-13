@@ -7,7 +7,6 @@ import java.util.Set;
  * Clase que representa un Desarrollador con un nombre y un conjunto de lenguajes de programación que conoce.
  */
 public class Developer {
-
     private String name; // Nombre del desarrollador
     private Set<String> languages; // Conjunto de lenguajes de programación que conoce el desarrollador
 

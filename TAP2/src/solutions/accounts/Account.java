@@ -5,7 +5,6 @@ package solutions.accounts;
  * Cada cuenta incluye un identificador, un nombre, un tipo de cuenta y un saldo.
  */
 public class Account {
-
     private String id;       // Identificador único de la cuenta
     private String name;     // Nombre del titular de la cuenta
     private AccType type;    // Tipo de cuenta, utilizando el enumerado AccType

@@ -8,7 +8,6 @@ package stacks;
  * @param <T> Tipo de los elementos almacenados en la pila.
  */
 interface Stack<T> extends Iterable<T> {
-
     /**
      * Introduce un elemento en la cima de la pila.
      *

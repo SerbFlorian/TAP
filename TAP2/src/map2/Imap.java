@@ -6,7 +6,6 @@ package map2;
  * @param <T> Tipo de los elementos sobre los cuales se aplicará la función.
  */
 interface Imap<T> {
-
     /**
      * Aplica una transformación a un elemento del tipo T.
      *

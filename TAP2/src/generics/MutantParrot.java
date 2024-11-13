@@ -8,7 +8,6 @@ package generics;
  * @author Pedro García
  */
 public class MutantParrot extends Parrot {
-
     /**
      * Constructor de la clase MutantParrot.
      * Llama al constructor de la clase padre (Parrot) para inicializar las propiedades
