@@ -3,7 +3,7 @@ package annotations;
 /**
  * Clase que representa a una persona. Esta clase está anotada con @Copyright,
  * que proporciona metadatos sobre la clase, como la prioridad, el creador y las etiquetas asociadas.
- *
+ * <p>
  * La anotación @Copyright es procesada mediante reflexión para obtener la información adicional.
  */
 @Copyright(
@@ -20,7 +20,7 @@ public class Person {
      * Constructor de la clase Person.
      *
      * @param name El nombre de la persona.
-     * @param age La edad de la persona.
+     * @param age  La edad de la persona.
      */
     public Person(String name, int age) {
         this.name = name;

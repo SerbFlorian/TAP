@@ -7,7 +7,13 @@
     <bookmark url="file://$PROJECT_DIR$/src/annotations/Person.java" line="10" mnemonic="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfac48ad-a1a6-4450-b0df-95f5511d3cab" name="Default" comment="" />
+    <list default="true" id="bfac48ad-a1a6-4450-b0df-95f5511d3cab" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../TAP3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/annotations/Copyright.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/annotations/Copyright.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/annotations/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/annotations/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Calculator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -278,26 +284,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CalculatorTestRunner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EmployeeTestRunner.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InspectTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainProxy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReflectMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CalculatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CalculatorTest.testAdd.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestEmployeeDetails.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Florian/Desktop/GEI_4t/1r_Quad/4_TAP/examenes_teoria&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CalculatorTestRunner.executor": "Run",
+    "Application.EmployeeTestRunner.executor": "Run",
+    "Application.InspectTest.executor": "Run",
+    "Application.MainProxy.executor": "Run",
+    "Application.ReflectMain.executor": "Run",
+    "Application.Test.executor": "Run",
+    "JUnit.CalculatorTest.executor": "Run",
+    "JUnit.CalculatorTest.testAdd.executor": "Run",
+    "JUnit.CalculatorTestSuite.executor": "Run",
+    "JUnit.TestEmployeeDetails.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Florian/Desktop/GEI_4t/1r_Quad/4_TAP/examenes_teoria",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/json" />
@@ -305,7 +312,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.InspectTest">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -464,20 +471,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="CalculatorTestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calculator.CalculatorTestRunner" />
-      <module name="TAP4" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="calculator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="EmployeeTestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="employee.EmployeeTestRunner" />
       <module name="TAP4" />
@@ -506,13 +499,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="annotations.ReflectMain" />
+    <configuration name="MainProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamic.MainProxy" />
       <module name="TAP4" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="annotations.*" />
+          <option name="PATTERN" value="dynamic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -536,6 +529,25 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TAP4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="calculator" />
+      <option name="MAIN_CLASS_NAME" value="calculator.CalculatorTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -584,20 +596,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CalculatorTestRunner" />
-      <item itemvalue="Application.ReflectMain" />
+      <item itemvalue="Application.MainProxy" />
       <item itemvalue="Application.EmployeeTestRunner" />
       <item itemvalue="Application.InspectTest" />
       <item itemvalue="Application.Test" />
       <item itemvalue="JUnit.TestExmployee" />
+      <item itemvalue="JUnit.CalculatorTestSuite" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.CalculatorTestRunner" />
         <item itemvalue="Application.InspectTest" />
-        <item itemvalue="Application.ReflectMain" />
         <item itemvalue="Application.EmployeeTestRunner" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MainProxy" />
+        <item itemvalue="JUnit.CalculatorTestSuite" />
       </list>
     </recent_temporary>
   </component>

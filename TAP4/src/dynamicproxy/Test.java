@@ -19,14 +19,14 @@ public class Test {
      * Se crea un proxy para la interfaz {@link TestIF} y se invocan varios métodos
      * como {@link TestIF#hello(String)}, {@link Object#toString()}, {@link Object#hashCode()},
      * y {@link Object#equals(Object)}.
-     *
+     * <p>
      * Los resultados de cada invocación se imprimen por consola.
      */
     public static void main(String... args) {
         // Crear un proxy dinámico para la interfaz TestIF, que delega las llamadas a TestImpl
         TestIF t = (TestIF) Proxy.newProxyInstance(
                 TestIF.class.getClassLoader(), // Cargador de clases
-                new Class<?>[] { TestIF.class }, // La interfaz que implementará el proxy
+                new Class<?>[]{TestIF.class}, // La interfaz que implementará el proxy
                 new TestInvocationHandler(new TestImpl()) // Manejador de invocaciones, que delega en TestImpl
         );
 

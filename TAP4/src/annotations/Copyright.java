@@ -8,7 +8,7 @@ import java.lang.annotation.Target;
 /**
  * Anotación personalizada que se puede aplicar a clases, interfaces o anotaciones.
  * Proporciona metadatos relacionados con la prioridad, etiquetas, autor y última modificación de la clase anotada.
- *
+ * <p>
  * Esta anotación se utiliza para agregar información adicional a las clases en tiempo de ejecución.
  */
 @Retention(RetentionPolicy.RUNTIME)  // La anotación estará disponible en tiempo de ejecución
@@ -16,7 +16,7 @@ import java.lang.annotation.Target;
 public @interface Copyright {
     /**
      * Enum que define los niveles de prioridad de la anotación Copyright.
-     *
+     * <p>
      * LOW: Baja prioridad.
      * MEDIUM: Prioridad media.
      * HIGH: Alta prioridad.
