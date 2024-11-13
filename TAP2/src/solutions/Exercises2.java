@@ -10,7 +10,6 @@ import java.util.stream.Collectors;
  * Funciones, Enums, Polimorfismo, y otros conceptos de programación funcional en Java.
  */
 public class Exercises2 {
-
     /**
      * Método principal que ejecuta todos los ejercicios de la clase.
      *

@@ -8,36 +8,93 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfac48ad-a1a6-4450-b0df-95f5511d3cab" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/mediator/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/mediator/ComponentA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/mediator/ComponentB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/mediator/ConcreteMediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/mediator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/mediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/memento/Caretaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/memento/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/memento/Memento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TAP3/src/memento/Originator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/adapter_y_composite/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/adapter_y_composite/CompositeGraphic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/adapter_y_composite/Graphic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/adapter_y_composite/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/adapter_y_composite/OldRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/adapter_y_composite/OldRectangleAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/adapter_y_composite/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/composite_y_Iterator/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/composite_y_Iterator/CompositeIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/composite_y_Iterator/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/composite_y_Iterator/Folder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/composite_y_Iterator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/composite_y_visitor/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/composite_y_visitor/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/composite_y_visitor/FileCountVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/composite_y_visitor/Folder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/composite_y_visitor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/composite_y_visitor/TotalSizeVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/composite_y_visitor/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/decorator_composite/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/decorator_composite/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/decorator_composite/MenuComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/decorator_composite/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/decorator_composite/PermissionDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/decorator_composite/StyleDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/decorator_y_observer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/decorator_y_observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/decorator_y_observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/decorator_y_observer/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/decorator_y_observer/UserDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/decorator_y_observer/WelcomeMessageUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/iterator_y_visitor/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/iterator_y_visitor/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/iterator_y_visitor/FileCountVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/iterator_y_visitor/Folder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/iterator_y_visitor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/iterator_y_visitor/TotalSizeVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/iterator_y_visitor/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/observer_y_composite/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/observer_y_composite/CompositeGraphic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/observer_y_composite/Graphic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/observer_y_composite/GraphicObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/observer_y_composite/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/observer_y_composite/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/observer_y_composite/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/singleton_y_abstractFactory/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/singleton_y_abstractFactory/ButtonFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/singleton_y_abstractFactory/ButtonFactorySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/singleton_y_abstractFactory/MacOSButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/singleton_y_abstractFactory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/singleton_y_abstractFactory/WindowsButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/singleton_y_strategy/DiscountPricingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/singleton_y_strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/singleton_y_strategy/NormalPricingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/singleton_y_strategy/PricingContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/singleton_y_strategy/PricingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/singleton_y_strategy/SeasonalPricingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/state_y_strategy/CancelledState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/state_y_strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/state_y_strategy/MemberDiscountStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/state_y_strategy/NoDiscountStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/state_y_strategy/OrderContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/state_y_strategy/OrderState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/state_y_strategy/PendingState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/state_y_strategy/SeasonalDiscountStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/state_y_strategy/ShippedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/template_y_strategy/CreditCardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/template_y_strategy/CreditCardPaymentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/template_y_strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/template_y_strategy/PayPalPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/template_y_strategy/PayPalPaymentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/template_y_strategy/PaymentProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/template_y_strategy/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/visitor_y_observer/ConsoleObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/visitor_y_observer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/visitor_y_observer/SimpleTreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/visitor_y_observer/SumVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/visitor_y_observer/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/visitor_y_observer/TreeObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TAP3/src/visitor_y_observer/TreeVisitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TAP2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP2/src/solutions/accounts/Tokens.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/solutions/accounts/Tokens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/solutions/Exercises2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/solutions/Exercises2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TAP3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/composite/Directory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/composite/Directory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/composite/File.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/composite/File.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/NitroDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/NitroDecorator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/SpoilerDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/decorator/SpoilerDecorator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/factoryAbstract/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/factoryAbstract/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/out/production/TAP3/proxy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/out/production/TAP3/proxy/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/adapter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/adapter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/composite/Directory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/composite/Directory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/composite/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/composite/File.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/decorator/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/decorator/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/decorator/NitroDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/decorator/NitroDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/decorator/SpoilerDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/decorator/SpoilerDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/iterator/IteratorPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/iterator/IteratorPatternDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP3/src/proxy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP3/src/proxy/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP4/reflection/InspectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP4/reflection/InspectTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TAP4/reflection/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TAP4/reflection/Person.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -336,7 +393,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InspectTest">
+  <component name="RunManager" selected="Application.Test">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -495,6 +552,20 @@
       <envs />
       <method />
     </configuration>
+    <configuration name="CalculatorTestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calculator.CalculatorTestRunner" />
+      <module name="TAP4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EmployeeTestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="employee.EmployeeTestRunner" />
       <module name="TAP4" />
@@ -523,13 +594,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dynamic.MainProxy" />
+    <configuration name="ReflectMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotations.ReflectMain" />
       <module name="TAP4" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dynamic.*" />
+          <option name="PATTERN" value="annotations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -553,25 +624,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestEmployeeDetails" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TAP4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="employee.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="employee" />
-      <option name="MAIN_CLASS_NAME" value="employee.TestEmployeeDetails" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -620,20 +672,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CalculatorTestRunner" />
       <item itemvalue="Application.EmployeeTestRunner" />
       <item itemvalue="Application.InspectTest" />
-      <item itemvalue="Application.MainProxy" />
+      <item itemvalue="Application.ReflectMain" />
       <item itemvalue="Application.Test" />
       <item itemvalue="JUnit.TestExmployee" />
-      <item itemvalue="JUnit.TestEmployeeDetails" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InspectTest" />
-        <item itemvalue="Application.EmployeeTestRunner" />
-        <item itemvalue="JUnit.TestEmployeeDetails" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.MainProxy" />
+        <item itemvalue="Application.CalculatorTestRunner" />
+        <item itemvalue="Application.InspectTest" />
+        <item itemvalue="Application.ReflectMain" />
+        <item itemvalue="Application.EmployeeTestRunner" />
       </list>
     </recent_temporary>
   </component>
