@@ -22,6 +22,7 @@ public class Exercises {
         ejercicio8Enums();
         ejercicio9PolimorfismoHerencia();
         ejercicio10PolimorfismoParametrico();
+        ejercicio11StreamToCollection();
     }
 
     /**
@@ -35,7 +36,6 @@ public class Exercises {
         // Recorre la lista y la imprime utilizando un stream
         names.stream().forEach(System.out::println);
     }
-
     /**
      * Ejercicio 2: Uso de map para transformar los nombres en mayúsculas.
      * Aquí se utiliza la operación `map` para transformar todos los nombres de la lista
@@ -153,6 +153,32 @@ public class Exercises {
         List<Integer> intList = Arrays.asList(1, 2, 3, 4, 5);
         // Se calcula la suma de los elementos de la lista
         System.out.println("Suma de enteros: " + sum(intList));  // Salida: 15
+    }
+
+    /**
+     * Ejercicio 11: Conversión de un Stream a una colección.
+     * Este ejercicio muestra cómo convertir un Stream en una List, Set o Map usando `Collectors`.
+     */
+    public static void ejercicio11StreamToCollection() {
+        System.out.println("\nEjercicio 11: Stream to Collection");
+        List<String> fruits = Arrays.asList("apple", "banana", "orange", "apple");
+        // Convertir el Stream a una List
+        List<String> fruitList = fruits.stream()
+                .collect(Collectors.toList());
+                //.toList();  Alternativa
+        System.out.println("Stream to List: " + fruitList);
+        // Convertir el Stream a un Set (elimina duplicados)
+        Set<String> fruitSet = fruits.stream()
+                .collect(Collectors.toSet());
+        System.out.println("Stream to Set: " + fruitSet);
+        // Convertir el Stream a un Map, donde la clave es la fruta en mayúsculas y el valor es la longitud del nombre
+        Map<String, Integer> fruitMap = fruits.stream()
+                .distinct() // Evita duplicados en el Map
+                .collect(Collectors.toMap(
+                        String::toUpperCase, // Clave: nombre de la fruta en mayúsculas
+                        String::length       // Valor: longitud del nombre de la fruta
+                ));
+        System.out.println("Stream to Map: " + fruitMap);
     }
 
     // Ejemplo de polimorfismo de herencia

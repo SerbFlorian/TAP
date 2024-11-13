@@ -1,6 +1,14 @@
 
 # LABORATORY 2:  Java 8
 
+Collection<?>: Cuando solo necesitas leer elementos y la colección puede ser de cualquier tipo.
+Ideal para procesamientos de solo lectura.
+
+Collection<Object>: Para casos muy específicos donde sabes que solo manejarás Object (poco común en genéricos).
+
+Collection<T>: Cuando quieres que la colección sea del mismo tipo específico T y necesitas tanto leer
+como escribir elementos de ese tipo, proporcionando una tipificación fuerte y consistente.
+
 ------------------------------------------
 1. **On esta el CONTRACTE**= qui ereta del pare -> IMPLEMENT/EXTENDS
  se establece mediante el uso de IMPLEMENTS o EXTENDS,
