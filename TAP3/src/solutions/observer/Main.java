@@ -41,8 +41,7 @@ public class Main {
 		System.out.println("List content:");
 		for (String s : strings)
 			System.out.println(s); // Se imprime cada elemento de la lista
-		System.out.println();
-
+		System.out.println("--------------------");
 		// Intentamos registrar otro observador del tipo BackupObserver (esto lanzará una excepción)
 		try {
 			strings.register(new BackupObserver<String>());
@@ -79,6 +78,5 @@ public class Main {
 		System.out.println("List content:");
 		for (Integer s : integers)
 			System.out.println(s); // Se imprime cada elemento de la lista
-		System.out.println();
 	}
 }

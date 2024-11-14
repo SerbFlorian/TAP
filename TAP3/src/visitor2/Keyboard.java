@@ -9,7 +9,7 @@ public class Keyboard implements ComputerPart {
     /**
      * Este método es utilizado para aceptar un visitante y permitir que realice una operación
      * sobre el objeto `Keyboard`.
-     *
+     * <p>
      * El comportamiento de lo que sucede cuando se visita este objeto depende de la implementación
      * del método `visit` del visitante.
      *

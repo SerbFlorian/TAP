@@ -13,6 +13,6 @@ public class Main {
         // myCar=new SpoilerDecorator(myCar);
         //Car myCar = new SpoilerDecorator(new NitroDecorator(new Car("Chevrolet",10000)));
         System.out.println("Description: " + decorator2.getDescription());
-        System.out.println("Price: " + decorator2.getPrice() + "�");
+        System.out.println("Price: " + decorator2.getPrice() + "$");
     }
 }

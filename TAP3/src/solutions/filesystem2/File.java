@@ -9,7 +9,6 @@ import java.util.List;
  * y tamaño del archivo.
  */
 public class File implements AComponent {
-
     private String name;
     private int size;
     private AComponent parent;

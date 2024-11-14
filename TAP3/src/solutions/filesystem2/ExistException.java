@@ -6,10 +6,8 @@ package solutions.filesystem2;
  * componente duplicado a un directorio.
  */
 public class ExistException extends Exception {
-
 	/**
 	 * Serial version UID para la serialización de la excepción.
 	 */
 	private static final long serialVersionUID = 1L;
-
 }

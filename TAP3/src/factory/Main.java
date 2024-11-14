@@ -6,7 +6,6 @@ package factory; // Paquete donde se encuentra la clase
  * la fábrica sin necesidad de conocer las implementaciones concretas de los coches.
  */
 public class Main {
-
     /**
      * **Contrato:** Las interfaces {@link AbstractCar} y {@link AbstractCarFactory} son la "PADRE"
      * de las implementaciones concretas. El cliente no conoce las clases específicas,
@@ -25,6 +24,14 @@ public class Main {
         AbstractCar car = factory.createCar();
 
         // Imprime el lado del volante del coche creado
+        System.out.println(car.getDriverSide());
+
+        System.out.println("-------------------------");
+        // lo mismo pero con UKCar
+        factory = new UKCarFactory();
+
+        car = factory.createCar();
+
         System.out.println(car.getDriverSide());
     }
 }

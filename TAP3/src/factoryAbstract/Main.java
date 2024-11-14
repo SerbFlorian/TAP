@@ -1,6 +1,6 @@
 package factoryAbstract;
 /**
- * CONTRACTE: {@link factoryAbstract.AbstractCar} and {@link factoryAbstract.AbstractEngine} and {@link factoryAbstract.AbstractCarFactory}
+ * CONTRACTE: {@link AbstractCar} and {@link AbstractEngine} and {@link AbstractCarFactory}
  * ASSIGNACIO POLIMORFICA: new SpanishCarFactory() and new UKCarFactory()
  * DYNAMIC BINDING: .getDriverSide() and .getFuelType()
  */
@@ -19,7 +19,7 @@ public class Main {
 
         System.out.println("Lado del conductor del coche español: " + spanishCar.getDriverSide());
         System.out.println("Tipo de combustible del motor del coche español: " + spanishEngine.getFuelType());
-
+        System.out.println("--------------------------------------------------");
         // Cliente utiliza una fábrica concreta para crear una familia de productos del Reino Unido
         AbstractCarFactory ukFactory = new UKCarFactory();
         AbstractCar ukCar = ukFactory.createCar();

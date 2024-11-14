@@ -3,7 +3,7 @@ package visitor2;
 /**
  * Esta clase es una implementación concreta del visitante (patrón Visitor).
  * Se encarga de realizar la operación de "mostrar" (display) en cada componente de la computadora.
- *
+ * <p>
  * Este visitante implementa el método `visit()` para cada tipo de parte de la computadora (Computer, Mouse, Keyboard, Monitor),
  * y realiza una acción específica para cada tipo.
  */

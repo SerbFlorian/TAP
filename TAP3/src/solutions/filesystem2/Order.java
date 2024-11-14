@@ -7,7 +7,6 @@ import java.util.Comparator;
  * basándose en el nombre del componente.
  */
 public class Order implements Comparator<AComponent> {
-
     /**
      * Compara dos componentes AComponent basándose en su nombre.
      *

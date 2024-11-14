@@ -7,7 +7,6 @@ import java.util.List;
  * Define los métodos que deben implementar los componentes de la estructura del sistema de archivos.
  */
 interface AComponent {
-
     /**
      * Muestra el nombre de este componente y todos sus hijos en el sistema de archivos.
      * Este método se usa para listar la estructura del sistema de archivos.

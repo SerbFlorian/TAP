@@ -23,7 +23,6 @@ import java.util.LinkedList;
  * clientes, pero con comportamientos diferentes.
  */
 public class Main {
-
     public static void main(String[] args) {
         // Se crea el visitante de tipo HonoredTaxiVisitor
         TaxiVisitor taxiDriver = new HonoredTaxiVisitor();

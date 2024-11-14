@@ -2,7 +2,7 @@ package strategy;
 
 /**
  * Interfaz que define una operación matemática a realizar.
- *
+ * <p>
  * Esta interfaz define un contrato para las clases que implementan diferentes
  * tipos de operaciones matemáticas, como suma, resta o multiplicación.
  */

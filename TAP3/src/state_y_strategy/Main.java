@@ -21,7 +21,7 @@ public class Main {
 
         // Establecer el estado del pedido como Pendiente y calcular el precio con descuento
         order.setState(new PendingState());
-        // En este estado no se aplica ningún descuento
+        // En este ESTADO de PendingState *NO* se aplica ningún descuento
         System.out.println("Precio con descuento: " + order.applyDiscount(100.0));
 
         // Establecer el estado del pedido como Enviado y calcular el precio con descuento
@@ -31,7 +31,7 @@ public class Main {
 
         // Establecer el estado del pedido como Cancelado y calcular el precio con descuento
         order.setState(new CancelledState());
-        // En este estado no se aplica ningún descuento
+        // En este ESTADO de CancelledState *NO* se aplica ningún descuento
         System.out.println("Precio con descuento: " + order.applyDiscount(100.0));
     }
 }

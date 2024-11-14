@@ -3,7 +3,7 @@ package visitor2;
 /**
  * Esta clase representa una computadora que consta de varios componentes, como un ratón, teclado y monitor.
  * Implementa la interfaz `ComputerPart` y permite que un visitante interactúe con todos sus componentes.
- *
+ * <p>
  * CONTRACTE -> ComputerPart
  * ASSIGNACIO POLIMORFICA -> La clase `Computer` es tratada como un `ComputerPart` porque implementa la interfaz `ComputerPart`.
  * DYNAMIC BINDING -> El método `accept()` permite que el visitante se "acepte" de forma polimórfica, dependiendo del tipo concreto.

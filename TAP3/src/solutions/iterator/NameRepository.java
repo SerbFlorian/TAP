@@ -7,7 +7,6 @@ import java.util.*;
  * Esto permite recorrer los elementos (nombres) usando un iterador.
  */
 public class NameRepository implements Iterable<String> {
-
     // Array de nombres que serán iterados.
     public String names[] = {"Robert", "John", "Julie", "Lora"};
 

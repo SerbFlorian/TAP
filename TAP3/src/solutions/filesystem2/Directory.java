@@ -9,7 +9,6 @@ import java.util.List;
  * Implementa la interfaz AComponent y la interfaz Iterable para permitir la iteración sobre los elementos dentro del directorio.
  */
 public class Directory implements AComponent, Iterable<AComponent> {
-
     private String name;
     private List<AComponent> children; // Lista de componentes hijos (archivos o subdirectorios)
     private AComponent parent = null; // El directorio padre, si existe

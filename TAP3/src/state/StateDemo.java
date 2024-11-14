@@ -6,7 +6,6 @@ package state;
 // Clase principal que demuestra el uso del patrón de diseño State con la clase Package.
 // Este ejemplo simula cómo un paquete cambia de estado durante su ciclo de vida (Pedido, Entregado, Recibido).
 public class StateDemo {
-
     /**
      * Método principal que simula el ciclo de vida de un paquete utilizando el patrón State.
      * <p>
@@ -20,7 +19,6 @@ public class StateDemo {
      * @param args Argumentos de la línea de comandos (no utilizados en este caso).
      */
     public static void main(String[] args) {
-
         // Crear un nuevo paquete en su estado inicial "OrderedState"
         Package pkg = new Package();
 

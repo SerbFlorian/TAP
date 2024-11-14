@@ -11,7 +11,6 @@ import java.util.List;
  * como listar los archivos, calcular tamaños, buscar archivos por nombre y buscar archivos por propietario.
  */
 public class Main {
-
     /**
      * Método principal que crea una estructura de directorios y archivos, y aplica varios visitantes.
      *
