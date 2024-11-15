@@ -46,7 +46,8 @@ public class Streams2 {
          * en este caso es equivalente Animal::getName a animal -> animal.getName()
          */
         List<String> list = people.stream().map(Animal::getName).collect(Collectors.toList());
-
+        list.forEach(System.out::println);
+        System.out.println("-----------------");
         // Convertir la lista de animales a un conjunto (Set) de nombres, ordenados alfabéticamente
         Set<String> set = people.stream().map(Animal::getName).collect(Collectors.toCollection(java.util.TreeSet::new));
         set.forEach(System.out::println);

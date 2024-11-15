@@ -5,34 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="024cd87f-eb98-4d9d-8a09-9b114020ffe4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/out/production/TAP2/functional/Streams2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/out/production/TAP2/functional/Streams2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/out/production/TAP2/stacks/UseStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/out/production/TAP2/stacks/UseStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TAP2/src/functional/Streams2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP2/src/functional/Streams2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/decorator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/decorator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factory/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factoryAbstract/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factoryAbstract/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/observer_y_composite/Graphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/observer_y_composite/Graphic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/filesystem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/filesystem/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/filesystem2/AComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/filesystem2/AComponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/filesystem2/Directory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/filesystem2/Directory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/filesystem2/ExistException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/filesystem2/ExistException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/filesystem2/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/filesystem2/File.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/filesystem2/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/filesystem2/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/iterator/NameRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/iterator/NameRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/observer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/observer/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solutions/visitor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solutions/visitor/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/state/StateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/StateDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/state_y_strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/state_y_strategy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strategy/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strategy/Strategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/visitor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/visitor/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/visitor/TaxiVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor/TaxiVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/visitor2/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor2/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/visitor2/ComputerPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor2/ComputerPart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/visitor2/ComputerPartDisplayVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor2/ComputerPartDisplayVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/visitor2/ComputerPartVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor2/ComputerPartVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/visitor2/Keyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor2/Keyboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/visitor2/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor2/Monitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/visitor2/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/visitor2/Mouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TAP4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -280,52 +258,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.IteratorPatternDemo.executor": "Run",
-    "Application.Main (4).executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.SQLTest.executor": "Run",
-    "Application.StateDemo.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.adapter.Main.executor": "Run",
-    "Application.adapter_y_composite.Main.executor": "Run",
-    "Application.composite.Main.executor": "Run",
-    "Application.composite_y_Iterator.Main.executor": "Run",
-    "Application.composite_y_visitor.Main.executor": "Run",
-    "Application.decorator.Main.executor": "Run",
-    "Application.decorator_composite.Main.executor": "Run",
-    "Application.decorator_y_observer.Main.executor": "Run",
-    "Application.factory.Main.executor": "Run",
-    "Application.factoryAbstract.Main.executor": "Run",
-    "Application.iterator_y_visitor.Main.executor": "Run",
-    "Application.mediator.Main.executor": "Run",
-    "Application.memento.Main.executor": "Run",
-    "Application.observer_y_composite.Main.executor": "Run",
-    "Application.proxy.Main.executor": "Run",
-    "Application.singleton.Main.executor": "Run",
-    "Application.singleton_y_abstractFactory.Main.executor": "Run",
-    "Application.singleton_y_strategy.Main.executor": "Run",
-    "Application.solutions.filesystem.Main.executor": "Run",
-    "Application.solutions.filesystem2.Main.executor": "Run",
-    "Application.solutions.observer.Main.executor": "Run",
-    "Application.solutions.visitor.Main.executor": "Run",
-    "Application.state_y_strategy.Main.executor": "Run",
-    "Application.strategy.Main.executor": "Run",
-    "Application.template.Main.executor": "Run",
-    "Application.template_y_strategy.Main.executor": "Run",
-    "Application.visitor.Main.executor": "Run",
-    "Application.visitor_y_observer.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Florian/Desktop/GEI_4t/1r_Quad/4_TAP/TAP_Practicar/TAPBoo/TAP3/src/composite2",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.IteratorPatternDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SQLTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StateDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.adapter.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.adapter_y_composite.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.composite.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.composite_y_Iterator.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.composite_y_visitor.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.decorator.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.decorator_composite.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.decorator_y_observer.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factory.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factoryAbstract.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.iterator_y_visitor.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mediator.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.memento.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.observer_y_composite.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.proxy.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.singleton.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.singleton_y_abstractFactory.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.singleton_y_strategy.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solutions.filesystem.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solutions.filesystem2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solutions.observer.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.solutions.visitor.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.state_y_strategy.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.strategy.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.template.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.template_y_strategy.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.visitor.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.visitor_y_observer.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Florian/Desktop/GEI_4t/1r_Quad/4_TAP/TAP_Practicar/TAPBoo/TAP3/src/composite2&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Florian\Desktop\GEI_4t\1r_Quad\4_TAP\TAP_Practicar\TAPBoo\TAP3\src\composite2" />
